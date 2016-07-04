@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/IkitoiAPP/Scenes/Base.unity
+  isLoaded: 1
+  isActive: 1
