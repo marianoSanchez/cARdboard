@@ -1,0 +1,4507 @@
+fileFormatVersion: 2
+guid: ed5eb74e8514eca4fb2816e2b746166e
+timeCreated: 1441125961
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Baul
+    100002: Broche01
+    100004: Broche01 1
+    100006: Broche010
+    100008: Broche011
+    100010: Broche012
+    100012: Broche013
+    100014: Broche014
+    100016: Broche015
+    100018: Broche016
+    100020: Broche017
+    100022: Broche018
+    100024: Broche019
+    100026: Broche02
+    100028: Broche02 1
+    100030: Broche020
+    100032: Broche021
+    100034: Broche022
+    100036: Broche023
+    100038: Broche024
+    100040: Broche03
+    100042: Broche03 1
+    100044: Broche04
+    100046: Broche04 1
+    100048: Broche05
+    100050: Broche05 1
+    100052: Broche06
+    100054: Broche06 1
+    100056: Broche07
+    100058: Broche07 1
+    100060: Broche08
+    100062: Broche09
+    100064: Broche31:Broche01
+    100066: Broche31:joint1
+    100068: Broche31:joint2
+    100070: Broche31:joint3
+    100072: Broche31:joint4
+    100074: Broche31:joint5
+    100076: Broche31:pPlane1
+    100078: Cocina_Geo
+    100080: group1
+    100082: group2
+    100084: Ikitoi_Auto_Anim_Op02_v10:Parabrisas1
+    100086: Ikitoi_Auto_Anim_Op02_v10:pCube12
+    100088: //RootNode
+    100090: joint1
+    100092: joint1 1
+    100094: joint1 10
+    100096: joint1 11
+    100098: joint1 12
+    100100: joint1 13
+    100102: joint1 14
+    100104: joint1 15
+    100106: joint1 16
+    100108: joint1 2
+    100110: joint1 3
+    100112: joint1 4
+    100114: joint1 5
+    100116: joint1 6
+    100118: joint1 7
+    100120: joint1 8
+    100122: joint1 9
+    100124: joint10
+    100126: joint11
+    100128: joint12
+    100130: joint13
+    100132: joint14
+    100134: joint15
+    100136: joint16
+    100138: joint17
+    100140: joint18
+    100142: joint19
+    100144: joint2
+    100146: joint2 1
+    100148: joint2 10
+    100150: joint2 11
+    100152: joint2 12
+    100154: joint2 13
+    100156: joint2 14
+    100158: joint2 15
+    100160: joint2 16
+    100162: joint2 17
+    100164: joint2 18
+    100166: joint2 19
+    100168: joint2 2
+    100170: joint2 20
+    100172: joint2 21
+    100174: joint2 22
+    100176: joint2 23
+    100178: joint2 24
+    100180: joint2 25
+    100182: joint2 26
+    100184: joint2 27
+    100186: joint2 28
+    100188: joint2 29
+    100190: joint2 3
+    100192: joint2 30
+    100194: joint2 31
+    100196: joint2 4
+    100198: joint2 5
+    100200: joint2 6
+    100202: joint2 7
+    100204: joint2 8
+    100206: joint2 9
+    100208: joint20
+    100210: joint21
+    100212: joint22
+    100214: joint23
+    100216: joint24
+    100218: joint25
+    100220: joint28
+    100222: joint29
+    100224: joint3
+    100226: joint3 1
+    100228: joint3 10
+    100230: joint3 11
+    100232: joint3 12
+    100234: joint3 13
+    100236: joint3 14
+    100238: joint3 15
+    100240: joint3 16
+    100242: joint3 17
+    100244: joint3 18
+    100246: joint3 19
+    100248: joint3 2
+    100250: joint3 20
+    100252: joint3 21
+    100254: joint3 22
+    100256: joint3 23
+    100258: joint3 24
+    100260: joint3 25
+    100262: joint3 26
+    100264: joint3 27
+    100266: joint3 28
+    100268: joint3 29
+    100270: joint3 3
+    100272: joint3 30
+    100274: joint3 31
+    100276: joint3 4
+    100278: joint3 5
+    100280: joint3 6
+    100282: joint3 7
+    100284: joint3 8
+    100286: joint3 9
+    100288: joint30
+    100290: joint31
+    100292: joint32
+    100294: joint33
+    100296: joint34
+    100298: joint35
+    100300: joint36
+    100302: joint37
+    100304: joint38
+    100306: joint39
+    100308: joint4
+    100310: joint4 1
+    100312: joint4 10
+    100314: joint4 11
+    100316: joint4 12
+    100318: joint4 13
+    100320: joint4 14
+    100322: joint4 15
+    100324: joint4 16
+    100326: joint4 17
+    100328: joint4 18
+    100330: joint4 19
+    100332: joint4 2
+    100334: joint4 20
+    100336: joint4 21
+    100338: joint4 22
+    100340: joint4 23
+    100342: joint4 24
+    100344: joint4 25
+    100346: joint4 26
+    100348: joint4 27
+    100350: joint4 28
+    100352: joint4 29
+    100354: joint4 3
+    100356: joint4 30
+    100358: joint4 31
+    100360: joint4 4
+    100362: joint4 5
+    100364: joint4 6
+    100366: joint4 7
+    100368: joint4 8
+    100370: joint4 9
+    100372: joint40
+    100374: joint41
+    100376: joint42
+    100378: joint43
+    100380: joint44
+    100382: joint45
+    100384: joint46
+    100386: joint47
+    100388: joint48
+    100390: joint5
+    100392: joint5 1
+    100394: joint5 10
+    100396: joint5 11
+    100398: joint5 12
+    100400: joint5 13
+    100402: joint5 14
+    100404: joint5 15
+    100406: joint5 16
+    100408: joint5 17
+    100410: joint5 18
+    100412: joint5 19
+    100414: joint5 2
+    100416: joint5 20
+    100418: joint5 21
+    100420: joint5 22
+    100422: joint5 23
+    100424: joint5 24
+    100426: joint5 25
+    100428: joint5 26
+    100430: joint5 27
+    100432: joint5 28
+    100434: joint5 29
+    100436: joint5 3
+    100438: joint5 30
+    100440: joint5 4
+    100442: joint5 5
+    100444: joint5 6
+    100446: joint5 7
+    100448: joint5 8
+    100450: joint5 9
+    100452: joint6
+    100454: joint7
+    100456: joint8
+    100458: joint9
+    100460: object_44
+    100462: object_45
+    100464: object_46
+    100466: pCube12
+    100468: pCube13
+    100470: pCube15
+    100472: pCube16
+    100474: pCube17
+    100476: pCylinder1
+    100478: pCylinder2
+    100480: pCylinder3
+    100482: pCylinder4
+    100484: pCylinder5
+    100486: pCylinder6
+    100488: pCylinder7
+    100490: PlanoSombra:pPlane1
+    100492: pointLight1
+    100494: pointLight2
+    100496: pPipe1
+    100498: pPipe2
+    100500: pPipe3
+    100502: pPipe4
+    100504: pPlane1
+    100506: pPlane1 1
+    100508: pPlane1 10
+    100510: pPlane1 11
+    100512: pPlane1 12
+    100514: pPlane1 13
+    100516: pPlane1 14
+    100518: pPlane1 15
+    100520: pPlane1 16
+    100522: pPlane1 17
+    100524: pPlane1 18
+    100526: pPlane1 19
+    100528: pPlane1 2
+    100530: pPlane1 20
+    100532: pPlane1 21
+    100534: pPlane1 22
+    100536: pPlane1 23
+    100538: pPlane1 24
+    100540: pPlane1 25
+    100542: pPlane1 26
+    100544: pPlane1 27
+    100546: pPlane1 28
+    100548: pPlane1 29
+    100550: pPlane1 3
+    100552: pPlane1 4
+    100554: pPlane1 5
+    100556: pPlane1 6
+    100558: pPlane1 7
+    100560: pPlane1 8
+    100562: pPlane1 9
+    100564: pPlane3
+    100566: pPlane4
+    100568: pPlane5
+    100570: transform1
+    100572: transform2
+    100574: transform3
+    100576: transform4
+    100578: transform5
+    100580: transform6
+    100582: transform7
+    100584: transform8
+    100586: VentanaLateral3
+    100588: VentanaLateral4
+    400000: Baul
+    400002: Broche01
+    400004: Broche01 1
+    400006: Broche010
+    400008: Broche011
+    400010: Broche012
+    400012: Broche013
+    400014: Broche014
+    400016: Broche015
+    400018: Broche016
+    400020: Broche017
+    400022: Broche018
+    400024: Broche019
+    400026: Broche02
+    400028: Broche02 1
+    400030: Broche020
+    400032: Broche021
+    400034: Broche022
+    400036: Broche023
+    400038: Broche024
+    400040: Broche03
+    400042: Broche03 1
+    400044: Broche04
+    400046: Broche04 1
+    400048: Broche05
+    400050: Broche05 1
+    400052: Broche06
+    400054: Broche06 1
+    400056: Broche07
+    400058: Broche07 1
+    400060: Broche08
+    400062: Broche09
+    400064: Broche31:Broche01
+    400066: Broche31:joint1
+    400068: Broche31:joint2
+    400070: Broche31:joint3
+    400072: Broche31:joint4
+    400074: Broche31:joint5
+    400076: Broche31:pPlane1
+    400078: Cocina_Geo
+    400080: group1
+    400082: group2
+    400084: Ikitoi_Auto_Anim_Op02_v10:Parabrisas1
+    400086: Ikitoi_Auto_Anim_Op02_v10:pCube12
+    400088: //RootNode
+    400090: joint1
+    400092: joint1 1
+    400094: joint1 10
+    400096: joint1 11
+    400098: joint1 12
+    400100: joint1 13
+    400102: joint1 14
+    400104: joint1 15
+    400106: joint1 16
+    400108: joint1 2
+    400110: joint1 3
+    400112: joint1 4
+    400114: joint1 5
+    400116: joint1 6
+    400118: joint1 7
+    400120: joint1 8
+    400122: joint1 9
+    400124: joint10
+    400126: joint11
+    400128: joint12
+    400130: joint13
+    400132: joint14
+    400134: joint15
+    400136: joint16
+    400138: joint17
+    400140: joint18
+    400142: joint19
+    400144: joint2
+    400146: joint2 1
+    400148: joint2 10
+    400150: joint2 11
+    400152: joint2 12
+    400154: joint2 13
+    400156: joint2 14
+    400158: joint2 15
+    400160: joint2 16
+    400162: joint2 17
+    400164: joint2 18
+    400166: joint2 19
+    400168: joint2 2
+    400170: joint2 20
+    400172: joint2 21
+    400174: joint2 22
+    400176: joint2 23
+    400178: joint2 24
+    400180: joint2 25
+    400182: joint2 26
+    400184: joint2 27
+    400186: joint2 28
+    400188: joint2 29
+    400190: joint2 3
+    400192: joint2 30
+    400194: joint2 31
+    400196: joint2 4
+    400198: joint2 5
+    400200: joint2 6
+    400202: joint2 7
+    400204: joint2 8
+    400206: joint2 9
+    400208: joint20
+    400210: joint21
+    400212: joint22
+    400214: joint23
+    400216: joint24
+    400218: joint25
+    400220: joint28
+    400222: joint29
+    400224: joint3
+    400226: joint3 1
+    400228: joint3 10
+    400230: joint3 11
+    400232: joint3 12
+    400234: joint3 13
+    400236: joint3 14
+    400238: joint3 15
+    400240: joint3 16
+    400242: joint3 17
+    400244: joint3 18
+    400246: joint3 19
+    400248: joint3 2
+    400250: joint3 20
+    400252: joint3 21
+    400254: joint3 22
+    400256: joint3 23
+    400258: joint3 24
+    400260: joint3 25
+    400262: joint3 26
+    400264: joint3 27
+    400266: joint3 28
+    400268: joint3 29
+    400270: joint3 3
+    400272: joint3 30
+    400274: joint3 31
+    400276: joint3 4
+    400278: joint3 5
+    400280: joint3 6
+    400282: joint3 7
+    400284: joint3 8
+    400286: joint3 9
+    400288: joint30
+    400290: joint31
+    400292: joint32
+    400294: joint33
+    400296: joint34
+    400298: joint35
+    400300: joint36
+    400302: joint37
+    400304: joint38
+    400306: joint39
+    400308: joint4
+    400310: joint4 1
+    400312: joint4 10
+    400314: joint4 11
+    400316: joint4 12
+    400318: joint4 13
+    400320: joint4 14
+    400322: joint4 15
+    400324: joint4 16
+    400326: joint4 17
+    400328: joint4 18
+    400330: joint4 19
+    400332: joint4 2
+    400334: joint4 20
+    400336: joint4 21
+    400338: joint4 22
+    400340: joint4 23
+    400342: joint4 24
+    400344: joint4 25
+    400346: joint4 26
+    400348: joint4 27
+    400350: joint4 28
+    400352: joint4 29
+    400354: joint4 3
+    400356: joint4 30
+    400358: joint4 31
+    400360: joint4 4
+    400362: joint4 5
+    400364: joint4 6
+    400366: joint4 7
+    400368: joint4 8
+    400370: joint4 9
+    400372: joint40
+    400374: joint41
+    400376: joint42
+    400378: joint43
+    400380: joint44
+    400382: joint45
+    400384: joint46
+    400386: joint47
+    400388: joint48
+    400390: joint5
+    400392: joint5 1
+    400394: joint5 10
+    400396: joint5 11
+    400398: joint5 12
+    400400: joint5 13
+    400402: joint5 14
+    400404: joint5 15
+    400406: joint5 16
+    400408: joint5 17
+    400410: joint5 18
+    400412: joint5 19
+    400414: joint5 2
+    400416: joint5 20
+    400418: joint5 21
+    400420: joint5 22
+    400422: joint5 23
+    400424: joint5 24
+    400426: joint5 25
+    400428: joint5 26
+    400430: joint5 27
+    400432: joint5 28
+    400434: joint5 29
+    400436: joint5 3
+    400438: joint5 30
+    400440: joint5 4
+    400442: joint5 5
+    400444: joint5 6
+    400446: joint5 7
+    400448: joint5 8
+    400450: joint5 9
+    400452: joint6
+    400454: joint7
+    400456: joint8
+    400458: joint9
+    400460: object_44
+    400462: object_45
+    400464: object_46
+    400466: pCube12
+    400468: pCube13
+    400470: pCube15
+    400472: pCube16
+    400474: pCube17
+    400476: pCylinder1
+    400478: pCylinder2
+    400480: pCylinder3
+    400482: pCylinder4
+    400484: pCylinder5
+    400486: pCylinder6
+    400488: pCylinder7
+    400490: PlanoSombra:pPlane1
+    400492: pointLight1
+    400494: pointLight2
+    400496: pPipe1
+    400498: pPipe2
+    400500: pPipe3
+    400502: pPipe4
+    400504: pPlane1
+    400506: pPlane1 1
+    400508: pPlane1 10
+    400510: pPlane1 11
+    400512: pPlane1 12
+    400514: pPlane1 13
+    400516: pPlane1 14
+    400518: pPlane1 15
+    400520: pPlane1 16
+    400522: pPlane1 17
+    400524: pPlane1 18
+    400526: pPlane1 19
+    400528: pPlane1 2
+    400530: pPlane1 20
+    400532: pPlane1 21
+    400534: pPlane1 22
+    400536: pPlane1 23
+    400538: pPlane1 24
+    400540: pPlane1 25
+    400542: pPlane1 26
+    400544: pPlane1 27
+    400546: pPlane1 28
+    400548: pPlane1 29
+    400550: pPlane1 3
+    400552: pPlane1 4
+    400554: pPlane1 5
+    400556: pPlane1 6
+    400558: pPlane1 7
+    400560: pPlane1 8
+    400562: pPlane1 9
+    400564: pPlane3
+    400566: pPlane4
+    400568: pPlane5
+    400570: transform1
+    400572: transform2
+    400574: transform3
+    400576: transform4
+    400578: transform5
+    400580: transform6
+    400582: transform7
+    400584: transform8
+    400586: VentanaLateral3
+    400588: VentanaLateral4
+    2300000: PlanoSombra:pPlane1
+    2300002: pPlane1
+    3300000: PlanoSombra:pPlane1
+    3300002: pPlane1
+    4300000: Ikitoi_Auto_Anim_Op02_v10:Parabrisas1
+    4300002: Ikitoi_Auto_Anim_Op02_v10:pCube12
+    4300004: pCube13
+    4300006: pCube15
+    4300008: pCube16
+    4300010: pCube12
+    4300012: pCylinder1
+    4300014: pCylinder2
+    4300016: pCylinder3
+    4300018: pCylinder4
+    4300020: object_44
+    4300022: pCylinder5
+    4300024: pCylinder6
+    4300026: object_45
+    4300028: pCylinder7
+    4300030: object_46
+    4300032: pPipe1
+    4300034: pPipe2
+    4300036: pPipe3
+    4300038: pPipe4
+    4300040: pPlane3
+    4300042: pPlane4
+    4300044: pPlane5
+    4300046: Baul
+    4300048: VentanaLateral3
+    4300050: VentanaLateral4
+    4300052: pCube17
+    4300054: pPlane1
+    4300056: pPlane1
+    4300058: pPlane1
+    4300060: pPlane1
+    4300062: pPlane1
+    4300064: pPlane1
+    4300066: pPlane1
+    4300068: pPlane1
+    4300070: pPlane1
+    4300072: pPlane1
+    4300074: pPlane1
+    4300076: pPlane1
+    4300078: pPlane1
+    4300080: pPlane1
+    4300082: pPlane1
+    4300084: pPlane1
+    4300086: pPlane1
+    4300088: pPlane1
+    4300090: pPlane1
+    4300092: Broche31:pPlane1
+    4300094: pPlane1
+    4300096: pPlane1
+    4300098: pPlane1
+    4300100: pPlane1
+    4300102: pPlane1
+    4300104: pPlane1
+    4300106: pPlane1
+    4300108: pPlane1
+    4300110: pPlane1
+    4300112: pPlane1
+    4300114: PlanoSombra:pPlane1
+    4300116: pPlane1
+    7400000: 1
+    7400002: 2
+    7400004: 3
+    7400006: 4
+    7400008: 5
+    7400010: Ending
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Baul
+    13700002: Broche31:pPlane1
+    13700004: Ikitoi_Auto_Anim_Op02_v10:Parabrisas1
+    13700006: Ikitoi_Auto_Anim_Op02_v10:pCube12
+    13700008: object_44
+    13700010: object_45
+    13700012: object_46
+    13700014: pCube12
+    13700016: pCube13
+    13700018: pCube15
+    13700020: pCube16
+    13700022: pCube17
+    13700024: pCylinder1
+    13700026: pCylinder2
+    13700028: pCylinder3
+    13700030: pCylinder4
+    13700032: pCylinder5
+    13700034: pCylinder6
+    13700036: pCylinder7
+    13700038: pPipe1
+    13700040: pPipe2
+    13700042: pPipe3
+    13700044: pPipe4
+    13700046: pPlane1 1
+    13700048: pPlane1 10
+    13700050: pPlane1 11
+    13700052: pPlane1 12
+    13700054: pPlane1 13
+    13700056: pPlane1 14
+    13700058: pPlane1 15
+    13700060: pPlane1 16
+    13700062: pPlane1 17
+    13700064: pPlane1 18
+    13700066: pPlane1 19
+    13700068: pPlane1 2
+    13700070: pPlane1 20
+    13700072: pPlane1 21
+    13700074: pPlane1 22
+    13700076: pPlane1 23
+    13700078: pPlane1 24
+    13700080: pPlane1 25
+    13700082: pPlane1 26
+    13700084: pPlane1 27
+    13700086: pPlane1 28
+    13700088: pPlane1 29
+    13700090: pPlane1 3
+    13700092: pPlane1 4
+    13700094: pPlane1 5
+    13700096: pPlane1 6
+    13700098: pPlane1 7
+    13700100: pPlane1 8
+    13700102: pPlane1 9
+    13700104: pPlane3
+    13700106: pPlane4
+    13700108: pPlane5
+    13700110: VentanaLateral3
+    13700112: VentanaLateral4
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: 1
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 55
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Broche01
+        weight: 1
+      - path: Broche01/pPlane1 1
+        weight: 1
+      - path: Broche02
+        weight: 1
+      - path: Broche02/pPlane1 12
+        weight: 1
+      - path: Broche03
+        weight: 1
+      - path: Broche03/pPlane1 16
+        weight: 1
+      - path: Broche04
+        weight: 1
+      - path: Broche04/pPlane1 17
+        weight: 1
+      - path: Broche05
+        weight: 1
+      - path: Broche05/pPlane1 18
+        weight: 1
+      - path: Broche06
+        weight: 1
+      - path: Broche06/pPlane1 19
+        weight: 1
+      - path: Broche07
+        weight: 1
+      - path: Broche07/pPlane1 20
+        weight: 1
+      - path: Broche08
+        weight: 1
+      - path: Broche08/pPlane1 21
+        weight: 1
+      - path: Broche09
+        weight: 1
+      - path: Broche09/pPlane1 22
+        weight: 1
+      - path: Broche010
+        weight: 1
+      - path: Broche010/pPlane1 2
+        weight: 1
+      - path: Broche011
+        weight: 1
+      - path: Broche011/pPlane1 3
+        weight: 1
+      - path: Broche012
+        weight: 1
+      - path: Broche012/pPlane1 4
+        weight: 1
+      - path: Broche013
+        weight: 1
+      - path: Broche013/pPlane1 5
+        weight: 1
+      - path: Broche014
+        weight: 1
+      - path: Broche014/pPlane1 6
+        weight: 1
+      - path: Broche015
+        weight: 1
+      - path: Broche015/pPlane1 7
+        weight: 1
+      - path: Broche016
+        weight: 1
+      - path: Broche016/pPlane1 8
+        weight: 1
+      - path: Broche017
+        weight: 1
+      - path: Broche017/pPlane1 9
+        weight: 1
+      - path: Broche018
+        weight: 1
+      - path: Broche018/pPlane1 10
+        weight: 1
+      - path: Broche019
+        weight: 1
+      - path: Broche019/pPlane1 11
+        weight: 1
+      - path: Broche020
+        weight: 1
+      - path: Broche021
+        weight: 1
+      - path: Broche022
+        weight: 1
+      - path: Broche022/pPlane1 13
+        weight: 1
+      - path: Broche023
+        weight: 1
+      - path: Broche023/pPlane1 14
+        weight: 1
+      - path: Broche024
+        weight: 1
+      - path: Broche024/pPlane1 15
+        weight: 1
+      - path: Cocina_Geo
+        weight: 1
+      - path: Cocina_Geo/Baul
+        weight: 1
+      - path: Cocina_Geo/Ikitoi_Auto_Anim_Op02_v10:Parabrisas1
+        weight: 1
+      - path: Cocina_Geo/Ikitoi_Auto_Anim_Op02_v10:pCube12
+        weight: 1
+      - path: Cocina_Geo/object_44
+        weight: 1
+      - path: Cocina_Geo/object_45
+        weight: 1
+      - path: Cocina_Geo/object_46
+        weight: 1
+      - path: Cocina_Geo/pCube12
+        weight: 1
+      - path: Cocina_Geo/pCube13
+        weight: 1
+      - path: Cocina_Geo/pCube15
+        weight: 1
+      - path: Cocina_Geo/pCube16
+        weight: 1
+      - path: Cocina_Geo/pCube17
+        weight: 1
+      - path: Cocina_Geo/pCylinder1
+        weight: 1
+      - path: Cocina_Geo/pCylinder2
+        weight: 1
+      - path: Cocina_Geo/pCylinder3
+        weight: 1
+      - path: Cocina_Geo/pCylinder4
+        weight: 1
+      - path: Cocina_Geo/pCylinder5
+        weight: 1
+      - path: Cocina_Geo/pCylinder6
+        weight: 1
+      - path: Cocina_Geo/pCylinder7
+        weight: 1
+      - path: Cocina_Geo/pPipe1
+        weight: 1
+      - path: Cocina_Geo/pPipe2
+        weight: 1
+      - path: Cocina_Geo/pPipe3
+        weight: 1
+      - path: Cocina_Geo/pPipe4
+        weight: 1
+      - path: Cocina_Geo/pPlane3
+        weight: 1
+      - path: Cocina_Geo/pPlane4
+        weight: 1
+      - path: Cocina_Geo/pPlane5
+        weight: 1
+      - path: Cocina_Geo/VentanaLateral3
+        weight: 1
+      - path: Cocina_Geo/VentanaLateral4
+        weight: 1
+      - path: group1
+        weight: 1
+      - path: group1/Broche01 1
+        weight: 1
+      - path: group1/Broche01 1/pPlane1 23
+        weight: 1
+      - path: group1/Broche02 1
+        weight: 1
+      - path: group1/Broche02 1/pPlane1 24
+        weight: 1
+      - path: group1/Broche03 1
+        weight: 1
+      - path: group1/Broche03 1/pPlane1 25
+        weight: 1
+      - path: group1/Broche04 1
+        weight: 1
+      - path: group1/Broche04 1/pPlane1 26
+        weight: 1
+      - path: group1/Broche05 1
+        weight: 1
+      - path: group1/Broche05 1/pPlane1 27
+        weight: 1
+      - path: group1/Broche06 1
+        weight: 1
+      - path: group1/Broche06 1/pPlane1 28
+        weight: 1
+      - path: group1/Broche07 1
+        weight: 1
+      - path: group1/Broche07 1/pPlane1 29
+        weight: 1
+      - path: group1/Broche31:Broche01
+        weight: 1
+      - path: group1/Broche31:Broche01/Broche31:pPlane1
+        weight: 1
+      - path: group2
+        weight: 1
+      - path: joint1
+        weight: 1
+      - path: joint1/joint1 1
+        weight: 1
+      - path: joint1/joint1 1/joint2 1
+        weight: 1
+      - path: joint1/joint1 1/joint2 1/joint3 1
+        weight: 1
+      - path: joint1/joint1 1/joint4
+        weight: 1
+      - path: joint1/joint1 1/joint4/joint5
+        weight: 1
+      - path: joint1/joint37
+        weight: 1
+      - path: joint1/joint37/joint2 2
+        weight: 1
+      - path: joint1/joint37/joint2 2/joint3 2
+        weight: 1
+      - path: joint1/joint37/joint4 1
+        weight: 1
+      - path: joint1/joint37/joint4 1/joint5 1
+        weight: 1
+      - path: joint1/joint38
+        weight: 1
+      - path: joint1/joint38/joint2 3
+        weight: 1
+      - path: joint1/joint38/joint2 3/joint3 3
+        weight: 1
+      - path: joint1/joint38/joint4 2
+        weight: 1
+      - path: joint1/joint38/joint4 2/joint5 2
+        weight: 1
+      - path: joint1/joint39
+        weight: 1
+      - path: joint1/joint39/joint2 4
+        weight: 1
+      - path: joint1/joint39/joint2 4/joint3 4
+        weight: 1
+      - path: joint1/joint39/joint4 3
+        weight: 1
+      - path: joint1/joint39/joint4 3/joint5 3
+        weight: 1
+      - path: joint2
+        weight: 1
+      - path: joint2/transform5
+        weight: 1
+      - path: joint2/transform5/joint1 5
+        weight: 1
+      - path: joint2/transform5/joint1 5/joint2 11
+        weight: 1
+      - path: joint2/transform5/joint1 5/joint2 11/joint3 11
+        weight: 1
+      - path: joint2/transform5/joint1 5/joint4 11
+        weight: 1
+      - path: joint2/transform5/joint1 5/joint4 11/joint5 10
+        weight: 1
+      - path: joint2/transform6
+        weight: 1
+      - path: joint2/transform6/joint1 6
+        weight: 1
+      - path: joint2/transform6/joint1 6/joint2 12
+        weight: 1
+      - path: joint2/transform6/joint1 6/joint2 12/joint3 12
+        weight: 1
+      - path: joint2/transform6/joint1 6/joint4 12
+        weight: 1
+      - path: joint2/transform6/joint1 6/joint4 12/joint5 11
+        weight: 1
+      - path: joint2/transform7
+        weight: 1
+      - path: joint2/transform7/joint1 7
+        weight: 1
+      - path: joint2/transform7/joint1 7/joint2 13
+        weight: 1
+      - path: joint2/transform7/joint1 7/joint2 13/joint3 13
+        weight: 1
+      - path: joint2/transform7/joint1 7/joint4 13
+        weight: 1
+      - path: joint2/transform7/joint1 7/joint4 13/joint5 12
+        weight: 1
+      - path: joint2/transform8
+        weight: 1
+      - path: joint2/transform8/joint1 8
+        weight: 1
+      - path: joint2/transform8/joint1 8/joint2 14
+        weight: 1
+      - path: joint2/transform8/joint1 8/joint2 14/joint3 14
+        weight: 1
+      - path: joint2/transform8/joint1 8/joint4 14
+        weight: 1
+      - path: joint2/transform8/joint1 8/joint4 14/joint5 13
+        weight: 1
+      - path: joint10
+        weight: 1
+      - path: joint10/joint1 2
+        weight: 1
+      - path: joint10/joint1 2/joint2 5
+        weight: 1
+      - path: joint10/joint1 2/joint2 5/joint3 5
+        weight: 1
+      - path: joint10/joint1 2/joint4 4
+        weight: 1
+      - path: joint10/joint1 2/joint4 4/joint5 4
+        weight: 1
+      - path: joint10/joint11
+        weight: 1
+      - path: joint10/joint11/joint48
+        weight: 1
+      - path: joint10/joint11/joint48/joint4 6
+        weight: 1
+      - path: joint10/joint11/joint48/joint4 6/joint47
+        weight: 1
+      - path: joint10/joint11/joint48/joint4 6/joint47/joint2 25
+        weight: 1
+      - path: joint10/joint11/joint48/joint4 6/joint47/joint2 25/joint3 25
+        weight: 1
+      - path: joint10/joint11/joint48/joint4 6/joint47/joint4 25
+        weight: 1
+      - path: joint10/joint11/joint48/joint4 6/joint47/joint4 25/joint5 24
+        weight: 1
+      - path: joint10/joint29
+        weight: 1
+      - path: joint10/joint29/joint1 3
+        weight: 1
+      - path: joint10/joint29/joint1 3/joint2 7
+        weight: 1
+      - path: joint10/joint29/joint1 3/joint2 7/joint3 7
+        weight: 1
+      - path: joint10/joint29/joint1 3/joint4 7
+        weight: 1
+      - path: joint10/joint29/joint1 3/joint4 7/joint5 6
+        weight: 1
+      - path: joint10/joint29/joint3
+        weight: 1
+      - path: joint10/joint29/joint3/joint1 10
+        weight: 1
+      - path: joint10/joint29/joint3/joint1 10/joint2 20
+        weight: 1
+      - path: joint10/joint29/joint3/joint1 10/joint2 20/joint3 20
+        weight: 1
+      - path: joint10/joint29/joint3/joint1 10/joint4 20
+        weight: 1
+      - path: joint10/joint29/joint3/joint1 10/joint4 20/joint5 19
+        weight: 1
+      - path: joint10/joint29/joint3/joint22
+        weight: 1
+      - path: joint10/joint29/joint3/joint23
+        weight: 1
+      - path: joint10/joint29/joint3/joint24
+        weight: 1
+      - path: joint10/joint29/joint3/joint25
+        weight: 1
+      - path: joint10/joint29/joint3/joint31
+        weight: 1
+      - path: joint10/joint29/joint3/joint40
+        weight: 1
+      - path: joint10/joint29/joint3/joint40/joint2 21
+        weight: 1
+      - path: joint10/joint29/joint3/joint40/joint2 21/joint3 21
+        weight: 1
+      - path: joint10/joint29/joint3/joint40/joint4 21
+        weight: 1
+      - path: joint10/joint29/joint3/joint40/joint4 21/joint5 20
+        weight: 1
+      - path: joint10/joint29/joint3/joint44
+        weight: 1
+      - path: joint10/joint29/joint3/joint44/joint2 22
+        weight: 1
+      - path: joint10/joint29/joint3/joint44/joint2 22/joint3 22
+        weight: 1
+      - path: joint10/joint29/joint3/joint44/joint4 22
+        weight: 1
+      - path: joint10/joint29/joint3/joint44/joint4 22/joint5 21
+        weight: 1
+      - path: joint10/joint32
+        weight: 1
+      - path: joint10/joint32/joint1 4
+        weight: 1
+      - path: joint10/joint32/joint1 4/joint2 8
+        weight: 1
+      - path: joint10/joint32/joint1 4/joint2 8/joint3 8
+        weight: 1
+      - path: joint10/joint32/joint1 4/joint4 8
+        weight: 1
+      - path: joint10/joint32/joint1 4/joint4 8/joint5 7
+        weight: 1
+      - path: joint10/joint32/joint30
+        weight: 1
+      - path: joint10/joint32/joint30/joint9
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint1 13
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint1 13/joint2 26
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint1 13/joint2 26/joint3 26
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint1 13/joint4 26
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint1 13/joint4 26/joint5 25
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint12
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint13
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint14
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint15
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint42
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint42/joint2 27
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint42/joint2 27/joint3 27
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint42/joint4 27
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint42/joint4 27/joint5 26
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint43
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint43/joint2 28
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint43/joint2 28/joint3 28
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint43/joint4 28
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint43/joint4 28/joint5 27
+        weight: 1
+      - path: joint10/joint32/joint41
+        weight: 1
+      - path: joint10/joint32/joint41/joint2 9
+        weight: 1
+      - path: joint10/joint32/joint41/joint2 9/joint3 9
+        weight: 1
+      - path: joint10/joint32/joint41/joint4 9
+        weight: 1
+      - path: joint10/joint32/joint41/joint4 9/joint5 8
+        weight: 1
+      - path: joint10/joint32/joint46
+        weight: 1
+      - path: joint10/joint32/joint46/joint2 10
+        weight: 1
+      - path: joint10/joint32/joint46/joint2 10/joint3 10
+        weight: 1
+      - path: joint10/joint32/joint46/joint4 10
+        weight: 1
+      - path: joint10/joint32/joint46/joint4 10/joint5 9
+        weight: 1
+      - path: joint10/joint45
+        weight: 1
+      - path: joint10/joint45/joint2 6
+        weight: 1
+      - path: joint10/joint45/joint2 6/joint3 6
+        weight: 1
+      - path: joint10/joint45/joint4 5
+        weight: 1
+      - path: joint10/joint45/joint4 5/joint5 5
+        weight: 1
+      - path: joint21
+        weight: 1
+      - path: joint21/joint6
+        weight: 1
+      - path: joint21/joint6/joint1 9
+        weight: 1
+      - path: joint21/joint6/joint1 9/joint2 15
+        weight: 1
+      - path: joint21/joint6/joint1 9/joint2 15/joint3 15
+        weight: 1
+      - path: joint21/joint6/joint1 9/joint4 15
+        weight: 1
+      - path: joint21/joint6/joint1 9/joint4 15/joint5 14
+        weight: 1
+      - path: joint21/joint6/joint16
+        weight: 1
+      - path: joint21/joint6/joint17
+        weight: 1
+      - path: joint21/joint6/joint18
+        weight: 1
+      - path: joint21/joint6/joint19
+        weight: 1
+      - path: joint21/joint6/joint19/joint7
+        weight: 1
+      - path: joint21/joint6/joint19/joint7/transform3
+        weight: 1
+      - path: joint21/joint6/joint19/joint7/transform3/joint1 15
+        weight: 1
+      - path: joint21/joint6/joint19/joint7/transform3/joint1 15/joint2 30
+        weight: 1
+      - path: joint21/joint6/joint19/joint7/transform3/joint1 15/joint2 30/joint3
+          30
+        weight: 1
+      - path: joint21/joint6/joint19/joint7/transform3/joint1 15/joint4 30
+        weight: 1
+      - path: joint21/joint6/joint19/joint7/transform3/joint1 15/joint4 30/joint5
+          29
+        weight: 1
+      - path: joint21/joint6/joint19/joint7/transform4
+        weight: 1
+      - path: joint21/joint6/joint19/joint7/transform4/joint1 16
+        weight: 1
+      - path: joint21/joint6/joint19/joint7/transform4/joint1 16/joint2 31
+        weight: 1
+      - path: joint21/joint6/joint19/joint7/transform4/joint1 16/joint2 31/joint3
+          31
+        weight: 1
+      - path: joint21/joint6/joint19/joint7/transform4/joint1 16/joint4 31
+        weight: 1
+      - path: joint21/joint6/joint19/joint7/transform4/joint1 16/joint4 31/joint5
+          30
+        weight: 1
+      - path: joint21/joint6/joint20
+        weight: 1
+      - path: joint21/joint6/joint20/joint8
+        weight: 1
+      - path: joint21/joint6/joint20/joint8/Broche31:joint1
+        weight: 1
+      - path: joint21/joint6/joint20/joint8/Broche31:joint1/Broche31:joint2
+        weight: 1
+      - path: joint21/joint6/joint20/joint8/Broche31:joint1/Broche31:joint2/Broche31:joint3
+        weight: 1
+      - path: joint21/joint6/joint20/joint8/Broche31:joint1/Broche31:joint4
+        weight: 1
+      - path: joint21/joint6/joint20/joint8/Broche31:joint1/Broche31:joint4/Broche31:joint5
+        weight: 1
+      - path: joint21/joint6/joint20/joint8/joint1 14
+        weight: 1
+      - path: joint21/joint6/joint20/joint8/joint1 14/joint2 29
+        weight: 1
+      - path: joint21/joint6/joint20/joint8/joint1 14/joint2 29/joint3 29
+        weight: 1
+      - path: joint21/joint6/joint20/joint8/joint1 14/joint4 29
+        weight: 1
+      - path: joint21/joint6/joint20/joint8/joint1 14/joint4 29/joint5 28
+        weight: 1
+      - path: joint21/joint6/joint33
+        weight: 1
+      - path: joint21/joint6/joint33/joint2 16
+        weight: 1
+      - path: joint21/joint6/joint33/joint2 16/joint3 16
+        weight: 1
+      - path: joint21/joint6/joint33/joint4 16
+        weight: 1
+      - path: joint21/joint6/joint33/joint4 16/joint5 15
+        weight: 1
+      - path: joint21/joint6/joint34
+        weight: 1
+      - path: joint21/joint6/joint34/joint2 17
+        weight: 1
+      - path: joint21/joint6/joint34/joint2 17/joint3 17
+        weight: 1
+      - path: joint21/joint6/joint34/joint4 17
+        weight: 1
+      - path: joint21/joint6/joint34/joint4 17/joint5 16
+        weight: 1
+      - path: joint21/joint6/joint35
+        weight: 1
+      - path: joint21/joint6/joint35/joint2 18
+        weight: 1
+      - path: joint21/joint6/joint35/joint2 18/joint3 18
+        weight: 1
+      - path: joint21/joint6/joint35/joint4 18
+        weight: 1
+      - path: joint21/joint6/joint35/joint4 18/joint5 17
+        weight: 1
+      - path: joint21/joint6/joint36
+        weight: 1
+      - path: joint21/joint6/joint36/joint2 19
+        weight: 1
+      - path: joint21/joint6/joint36/joint2 19/joint3 19
+        weight: 1
+      - path: joint21/joint6/joint36/joint4 19
+        weight: 1
+      - path: joint21/joint6/joint36/joint4 19/joint5 18
+        weight: 1
+      - path: joint21/joint6/transform1
+        weight: 1
+      - path: joint21/joint6/transform1/joint1 11
+        weight: 1
+      - path: joint21/joint6/transform1/joint1 11/joint2 23
+        weight: 1
+      - path: joint21/joint6/transform1/joint1 11/joint2 23/joint3 23
+        weight: 1
+      - path: joint21/joint6/transform1/joint1 11/joint4 23
+        weight: 1
+      - path: joint21/joint6/transform1/joint1 11/joint4 23/joint5 22
+        weight: 1
+      - path: joint21/joint6/transform2
+        weight: 1
+      - path: joint21/joint6/transform2/joint1 12
+        weight: 1
+      - path: joint21/joint6/transform2/joint1 12/joint2 24
+        weight: 1
+      - path: joint21/joint6/transform2/joint1 12/joint2 24/joint3 24
+        weight: 1
+      - path: joint21/joint6/transform2/joint1 12/joint4 24
+        weight: 1
+      - path: joint21/joint6/transform2/joint1 12/joint4 24/joint5 23
+        weight: 1
+      - path: joint28
+        weight: 1
+      - path: PlanoSombra:pPlane1
+        weight: 1
+      - path: pointLight1
+        weight: 1
+      - path: pointLight2
+        weight: 1
+      - path: pPlane1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: 2
+      takeName: Take 001
+      firstFrame: 55
+      lastFrame: 87
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Broche01
+        weight: 1
+      - path: Broche01/pPlane1 1
+        weight: 1
+      - path: Broche02
+        weight: 1
+      - path: Broche02/pPlane1 12
+        weight: 1
+      - path: Broche03
+        weight: 1
+      - path: Broche03/pPlane1 16
+        weight: 1
+      - path: Broche04
+        weight: 1
+      - path: Broche04/pPlane1 17
+        weight: 1
+      - path: Broche05
+        weight: 1
+      - path: Broche05/pPlane1 18
+        weight: 1
+      - path: Broche06
+        weight: 1
+      - path: Broche06/pPlane1 19
+        weight: 1
+      - path: Broche07
+        weight: 1
+      - path: Broche07/pPlane1 20
+        weight: 1
+      - path: Broche08
+        weight: 1
+      - path: Broche08/pPlane1 21
+        weight: 1
+      - path: Broche09
+        weight: 1
+      - path: Broche09/pPlane1 22
+        weight: 1
+      - path: Broche010
+        weight: 1
+      - path: Broche010/pPlane1 2
+        weight: 1
+      - path: Broche011
+        weight: 1
+      - path: Broche011/pPlane1 3
+        weight: 1
+      - path: Broche012
+        weight: 1
+      - path: Broche012/pPlane1 4
+        weight: 1
+      - path: Broche013
+        weight: 1
+      - path: Broche013/pPlane1 5
+        weight: 1
+      - path: Broche014
+        weight: 1
+      - path: Broche014/pPlane1 6
+        weight: 1
+      - path: Broche015
+        weight: 1
+      - path: Broche015/pPlane1 7
+        weight: 1
+      - path: Broche016
+        weight: 1
+      - path: Broche016/pPlane1 8
+        weight: 1
+      - path: Broche017
+        weight: 1
+      - path: Broche017/pPlane1 9
+        weight: 1
+      - path: Broche018
+        weight: 1
+      - path: Broche018/pPlane1 10
+        weight: 1
+      - path: Broche019
+        weight: 1
+      - path: Broche019/pPlane1 11
+        weight: 1
+      - path: Broche020
+        weight: 1
+      - path: Broche021
+        weight: 1
+      - path: Broche022
+        weight: 1
+      - path: Broche022/pPlane1 13
+        weight: 1
+      - path: Broche023
+        weight: 1
+      - path: Broche023/pPlane1 14
+        weight: 1
+      - path: Broche024
+        weight: 1
+      - path: Broche024/pPlane1 15
+        weight: 1
+      - path: Cocina_Geo
+        weight: 1
+      - path: Cocina_Geo/Baul
+        weight: 1
+      - path: Cocina_Geo/Ikitoi_Auto_Anim_Op02_v10:Parabrisas1
+        weight: 1
+      - path: Cocina_Geo/Ikitoi_Auto_Anim_Op02_v10:pCube12
+        weight: 1
+      - path: Cocina_Geo/object_44
+        weight: 1
+      - path: Cocina_Geo/object_45
+        weight: 1
+      - path: Cocina_Geo/object_46
+        weight: 1
+      - path: Cocina_Geo/pCube12
+        weight: 1
+      - path: Cocina_Geo/pCube13
+        weight: 1
+      - path: Cocina_Geo/pCube15
+        weight: 1
+      - path: Cocina_Geo/pCube16
+        weight: 1
+      - path: Cocina_Geo/pCube17
+        weight: 1
+      - path: Cocina_Geo/pCylinder1
+        weight: 1
+      - path: Cocina_Geo/pCylinder2
+        weight: 1
+      - path: Cocina_Geo/pCylinder3
+        weight: 1
+      - path: Cocina_Geo/pCylinder4
+        weight: 1
+      - path: Cocina_Geo/pCylinder5
+        weight: 1
+      - path: Cocina_Geo/pCylinder6
+        weight: 1
+      - path: Cocina_Geo/pCylinder7
+        weight: 1
+      - path: Cocina_Geo/pPipe1
+        weight: 1
+      - path: Cocina_Geo/pPipe2
+        weight: 1
+      - path: Cocina_Geo/pPipe3
+        weight: 1
+      - path: Cocina_Geo/pPipe4
+        weight: 1
+      - path: Cocina_Geo/pPlane3
+        weight: 1
+      - path: Cocina_Geo/pPlane4
+        weight: 1
+      - path: Cocina_Geo/pPlane5
+        weight: 1
+      - path: Cocina_Geo/VentanaLateral3
+        weight: 1
+      - path: Cocina_Geo/VentanaLateral4
+        weight: 1
+      - path: group1
+        weight: 1
+      - path: group1/Broche01 1
+        weight: 1
+      - path: group1/Broche01 1/pPlane1 23
+        weight: 1
+      - path: group1/Broche02 1
+        weight: 1
+      - path: group1/Broche02 1/pPlane1 24
+        weight: 1
+      - path: group1/Broche03 1
+        weight: 1
+      - path: group1/Broche03 1/pPlane1 25
+        weight: 1
+      - path: group1/Broche04 1
+        weight: 1
+      - path: group1/Broche04 1/pPlane1 26
+        weight: 1
+      - path: group1/Broche05 1
+        weight: 1
+      - path: group1/Broche05 1/pPlane1 27
+        weight: 1
+      - path: group1/Broche06 1
+        weight: 1
+      - path: group1/Broche06 1/pPlane1 28
+        weight: 1
+      - path: group1/Broche07 1
+        weight: 1
+      - path: group1/Broche07 1/pPlane1 29
+        weight: 1
+      - path: group1/Broche31:Broche01
+        weight: 1
+      - path: group1/Broche31:Broche01/Broche31:pPlane1
+        weight: 1
+      - path: group2
+        weight: 1
+      - path: joint1
+        weight: 1
+      - path: joint1/joint1 1
+        weight: 1
+      - path: joint1/joint1 1/joint2 1
+        weight: 1
+      - path: joint1/joint1 1/joint2 1/joint3 1
+        weight: 1
+      - path: joint1/joint1 1/joint4
+        weight: 1
+      - path: joint1/joint1 1/joint4/joint5
+        weight: 1
+      - path: joint1/joint37
+        weight: 1
+      - path: joint1/joint37/joint2 2
+        weight: 1
+      - path: joint1/joint37/joint2 2/joint3 2
+        weight: 1
+      - path: joint1/joint37/joint4 1
+        weight: 1
+      - path: joint1/joint37/joint4 1/joint5 1
+        weight: 1
+      - path: joint1/joint38
+        weight: 1
+      - path: joint1/joint38/joint2 3
+        weight: 1
+      - path: joint1/joint38/joint2 3/joint3 3
+        weight: 1
+      - path: joint1/joint38/joint4 2
+        weight: 1
+      - path: joint1/joint38/joint4 2/joint5 2
+        weight: 1
+      - path: joint1/joint39
+        weight: 1
+      - path: joint1/joint39/joint2 4
+        weight: 1
+      - path: joint1/joint39/joint2 4/joint3 4
+        weight: 1
+      - path: joint1/joint39/joint4 3
+        weight: 1
+      - path: joint1/joint39/joint4 3/joint5 3
+        weight: 1
+      - path: joint2
+        weight: 1
+      - path: joint2/transform5
+        weight: 1
+      - path: joint2/transform5/joint1 5
+        weight: 1
+      - path: joint2/transform5/joint1 5/joint2 11
+        weight: 1
+      - path: joint2/transform5/joint1 5/joint2 11/joint3 11
+        weight: 1
+      - path: joint2/transform5/joint1 5/joint4 11
+        weight: 1
+      - path: joint2/transform5/joint1 5/joint4 11/joint5 10
+        weight: 1
+      - path: joint2/transform6
+        weight: 1
+      - path: joint2/transform6/joint1 6
+        weight: 1
+      - path: joint2/transform6/joint1 6/joint2 12
+        weight: 1
+      - path: joint2/transform6/joint1 6/joint2 12/joint3 12
+        weight: 1
+      - path: joint2/transform6/joint1 6/joint4 12
+        weight: 1
+      - path: joint2/transform6/joint1 6/joint4 12/joint5 11
+        weight: 1
+      - path: joint2/transform7
+        weight: 1
+      - path: joint2/transform7/joint1 7
+        weight: 1
+      - path: joint2/transform7/joint1 7/joint2 13
+        weight: 1
+      - path: joint2/transform7/joint1 7/joint2 13/joint3 13
+        weight: 1
+      - path: joint2/transform7/joint1 7/joint4 13
+        weight: 1
+      - path: joint2/transform7/joint1 7/joint4 13/joint5 12
+        weight: 1
+      - path: joint2/transform8
+        weight: 1
+      - path: joint2/transform8/joint1 8
+        weight: 1
+      - path: joint2/transform8/joint1 8/joint2 14
+        weight: 1
+      - path: joint2/transform8/joint1 8/joint2 14/joint3 14
+        weight: 1
+      - path: joint2/transform8/joint1 8/joint4 14
+        weight: 1
+      - path: joint2/transform8/joint1 8/joint4 14/joint5 13
+        weight: 1
+      - path: joint10
+        weight: 1
+      - path: joint10/joint1 2
+        weight: 1
+      - path: joint10/joint1 2/joint2 5
+        weight: 1
+      - path: joint10/joint1 2/joint2 5/joint3 5
+        weight: 1
+      - path: joint10/joint1 2/joint4 4
+        weight: 1
+      - path: joint10/joint1 2/joint4 4/joint5 4
+        weight: 1
+      - path: joint10/joint11
+        weight: 1
+      - path: joint10/joint11/joint48
+        weight: 1
+      - path: joint10/joint11/joint48/joint4 6
+        weight: 1
+      - path: joint10/joint11/joint48/joint4 6/joint47
+        weight: 1
+      - path: joint10/joint11/joint48/joint4 6/joint47/joint2 25
+        weight: 1
+      - path: joint10/joint11/joint48/joint4 6/joint47/joint2 25/joint3 25
+        weight: 1
+      - path: joint10/joint11/joint48/joint4 6/joint47/joint4 25
+        weight: 1
+      - path: joint10/joint11/joint48/joint4 6/joint47/joint4 25/joint5 24
+        weight: 1
+      - path: joint10/joint29
+        weight: 1
+      - path: joint10/joint29/joint1 3
+        weight: 1
+      - path: joint10/joint29/joint1 3/joint2 7
+        weight: 1
+      - path: joint10/joint29/joint1 3/joint2 7/joint3 7
+        weight: 1
+      - path: joint10/joint29/joint1 3/joint4 7
+        weight: 1
+      - path: joint10/joint29/joint1 3/joint4 7/joint5 6
+        weight: 1
+      - path: joint10/joint29/joint3
+        weight: 1
+      - path: joint10/joint29/joint3/joint1 10
+        weight: 1
+      - path: joint10/joint29/joint3/joint1 10/joint2 20
+        weight: 1
+      - path: joint10/joint29/joint3/joint1 10/joint2 20/joint3 20
+        weight: 1
+      - path: joint10/joint29/joint3/joint1 10/joint4 20
+        weight: 1
+      - path: joint10/joint29/joint3/joint1 10/joint4 20/joint5 19
+        weight: 1
+      - path: joint10/joint29/joint3/joint22
+        weight: 1
+      - path: joint10/joint29/joint3/joint23
+        weight: 1
+      - path: joint10/joint29/joint3/joint24
+        weight: 1
+      - path: joint10/joint29/joint3/joint25
+        weight: 1
+      - path: joint10/joint29/joint3/joint31
+        weight: 1
+      - path: joint10/joint29/joint3/joint40
+        weight: 1
+      - path: joint10/joint29/joint3/joint40/joint2 21
+        weight: 1
+      - path: joint10/joint29/joint3/joint40/joint2 21/joint3 21
+        weight: 1
+      - path: joint10/joint29/joint3/joint40/joint4 21
+        weight: 1
+      - path: joint10/joint29/joint3/joint40/joint4 21/joint5 20
+        weight: 1
+      - path: joint10/joint29/joint3/joint44
+        weight: 1
+      - path: joint10/joint29/joint3/joint44/joint2 22
+        weight: 1
+      - path: joint10/joint29/joint3/joint44/joint2 22/joint3 22
+        weight: 1
+      - path: joint10/joint29/joint3/joint44/joint4 22
+        weight: 1
+      - path: joint10/joint29/joint3/joint44/joint4 22/joint5 21
+        weight: 1
+      - path: joint10/joint32
+        weight: 1
+      - path: joint10/joint32/joint1 4
+        weight: 1
+      - path: joint10/joint32/joint1 4/joint2 8
+        weight: 1
+      - path: joint10/joint32/joint1 4/joint2 8/joint3 8
+        weight: 1
+      - path: joint10/joint32/joint1 4/joint4 8
+        weight: 1
+      - path: joint10/joint32/joint1 4/joint4 8/joint5 7
+        weight: 1
+      - path: joint10/joint32/joint30
+        weight: 1
+      - path: joint10/joint32/joint30/joint9
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint1 13
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint1 13/joint2 26
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint1 13/joint2 26/joint3 26
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint1 13/joint4 26
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint1 13/joint4 26/joint5 25
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint12
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint13
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint14
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint15
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint42
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint42/joint2 27
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint42/joint2 27/joint3 27
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint42/joint4 27
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint42/joint4 27/joint5 26
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint43
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint43/joint2 28
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint43/joint2 28/joint3 28
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint43/joint4 28
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint43/joint4 28/joint5 27
+        weight: 1
+      - path: joint10/joint32/joint41
+        weight: 1
+      - path: joint10/joint32/joint41/joint2 9
+        weight: 1
+      - path: joint10/joint32/joint41/joint2 9/joint3 9
+        weight: 1
+      - path: joint10/joint32/joint41/joint4 9
+        weight: 1
+      - path: joint10/joint32/joint41/joint4 9/joint5 8
+        weight: 1
+      - path: joint10/joint32/joint46
+        weight: 1
+      - path: joint10/joint32/joint46/joint2 10
+        weight: 1
+      - path: joint10/joint32/joint46/joint2 10/joint3 10
+        weight: 1
+      - path: joint10/joint32/joint46/joint4 10
+        weight: 1
+      - path: joint10/joint32/joint46/joint4 10/joint5 9
+        weight: 1
+      - path: joint10/joint45
+        weight: 1
+      - path: joint10/joint45/joint2 6
+        weight: 1
+      - path: joint10/joint45/joint2 6/joint3 6
+        weight: 1
+      - path: joint10/joint45/joint4 5
+        weight: 1
+      - path: joint10/joint45/joint4 5/joint5 5
+        weight: 1
+      - path: joint21
+        weight: 1
+      - path: joint21/joint6
+        weight: 1
+      - path: joint21/joint6/joint1 9
+        weight: 1
+      - path: joint21/joint6/joint1 9/joint2 15
+        weight: 1
+      - path: joint21/joint6/joint1 9/joint2 15/joint3 15
+        weight: 1
+      - path: joint21/joint6/joint1 9/joint4 15
+        weight: 1
+      - path: joint21/joint6/joint1 9/joint4 15/joint5 14
+        weight: 1
+      - path: joint21/joint6/joint16
+        weight: 1
+      - path: joint21/joint6/joint17
+        weight: 1
+      - path: joint21/joint6/joint18
+        weight: 1
+      - path: joint21/joint6/joint19
+        weight: 1
+      - path: joint21/joint6/joint19/joint7
+        weight: 1
+      - path: joint21/joint6/joint19/joint7/transform3
+        weight: 1
+      - path: joint21/joint6/joint19/joint7/transform3/joint1 15
+        weight: 1
+      - path: joint21/joint6/joint19/joint7/transform3/joint1 15/joint2 30
+        weight: 1
+      - path: joint21/joint6/joint19/joint7/transform3/joint1 15/joint2 30/joint3
+          30
+        weight: 1
+      - path: joint21/joint6/joint19/joint7/transform3/joint1 15/joint4 30
+        weight: 1
+      - path: joint21/joint6/joint19/joint7/transform3/joint1 15/joint4 30/joint5
+          29
+        weight: 1
+      - path: joint21/joint6/joint19/joint7/transform4
+        weight: 1
+      - path: joint21/joint6/joint19/joint7/transform4/joint1 16
+        weight: 1
+      - path: joint21/joint6/joint19/joint7/transform4/joint1 16/joint2 31
+        weight: 1
+      - path: joint21/joint6/joint19/joint7/transform4/joint1 16/joint2 31/joint3
+          31
+        weight: 1
+      - path: joint21/joint6/joint19/joint7/transform4/joint1 16/joint4 31
+        weight: 1
+      - path: joint21/joint6/joint19/joint7/transform4/joint1 16/joint4 31/joint5
+          30
+        weight: 1
+      - path: joint21/joint6/joint20
+        weight: 1
+      - path: joint21/joint6/joint20/joint8
+        weight: 1
+      - path: joint21/joint6/joint20/joint8/Broche31:joint1
+        weight: 1
+      - path: joint21/joint6/joint20/joint8/Broche31:joint1/Broche31:joint2
+        weight: 1
+      - path: joint21/joint6/joint20/joint8/Broche31:joint1/Broche31:joint2/Broche31:joint3
+        weight: 1
+      - path: joint21/joint6/joint20/joint8/Broche31:joint1/Broche31:joint4
+        weight: 1
+      - path: joint21/joint6/joint20/joint8/Broche31:joint1/Broche31:joint4/Broche31:joint5
+        weight: 1
+      - path: joint21/joint6/joint20/joint8/joint1 14
+        weight: 1
+      - path: joint21/joint6/joint20/joint8/joint1 14/joint2 29
+        weight: 1
+      - path: joint21/joint6/joint20/joint8/joint1 14/joint2 29/joint3 29
+        weight: 1
+      - path: joint21/joint6/joint20/joint8/joint1 14/joint4 29
+        weight: 1
+      - path: joint21/joint6/joint20/joint8/joint1 14/joint4 29/joint5 28
+        weight: 1
+      - path: joint21/joint6/joint33
+        weight: 1
+      - path: joint21/joint6/joint33/joint2 16
+        weight: 1
+      - path: joint21/joint6/joint33/joint2 16/joint3 16
+        weight: 1
+      - path: joint21/joint6/joint33/joint4 16
+        weight: 1
+      - path: joint21/joint6/joint33/joint4 16/joint5 15
+        weight: 1
+      - path: joint21/joint6/joint34
+        weight: 1
+      - path: joint21/joint6/joint34/joint2 17
+        weight: 1
+      - path: joint21/joint6/joint34/joint2 17/joint3 17
+        weight: 1
+      - path: joint21/joint6/joint34/joint4 17
+        weight: 1
+      - path: joint21/joint6/joint34/joint4 17/joint5 16
+        weight: 1
+      - path: joint21/joint6/joint35
+        weight: 1
+      - path: joint21/joint6/joint35/joint2 18
+        weight: 1
+      - path: joint21/joint6/joint35/joint2 18/joint3 18
+        weight: 1
+      - path: joint21/joint6/joint35/joint4 18
+        weight: 1
+      - path: joint21/joint6/joint35/joint4 18/joint5 17
+        weight: 1
+      - path: joint21/joint6/joint36
+        weight: 1
+      - path: joint21/joint6/joint36/joint2 19
+        weight: 1
+      - path: joint21/joint6/joint36/joint2 19/joint3 19
+        weight: 1
+      - path: joint21/joint6/joint36/joint4 19
+        weight: 1
+      - path: joint21/joint6/joint36/joint4 19/joint5 18
+        weight: 1
+      - path: joint21/joint6/transform1
+        weight: 1
+      - path: joint21/joint6/transform1/joint1 11
+        weight: 1
+      - path: joint21/joint6/transform1/joint1 11/joint2 23
+        weight: 1
+      - path: joint21/joint6/transform1/joint1 11/joint2 23/joint3 23
+        weight: 1
+      - path: joint21/joint6/transform1/joint1 11/joint4 23
+        weight: 1
+      - path: joint21/joint6/transform1/joint1 11/joint4 23/joint5 22
+        weight: 1
+      - path: joint21/joint6/transform2
+        weight: 1
+      - path: joint21/joint6/transform2/joint1 12
+        weight: 1
+      - path: joint21/joint6/transform2/joint1 12/joint2 24
+        weight: 1
+      - path: joint21/joint6/transform2/joint1 12/joint2 24/joint3 24
+        weight: 1
+      - path: joint21/joint6/transform2/joint1 12/joint4 24
+        weight: 1
+      - path: joint21/joint6/transform2/joint1 12/joint4 24/joint5 23
+        weight: 1
+      - path: joint28
+        weight: 1
+      - path: PlanoSombra:pPlane1
+        weight: 1
+      - path: pointLight1
+        weight: 1
+      - path: pointLight2
+        weight: 1
+      - path: pPlane1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: 3
+      takeName: Take 001
+      firstFrame: 87
+      lastFrame: 130
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Broche01
+        weight: 1
+      - path: Broche01/pPlane1 1
+        weight: 1
+      - path: Broche02
+        weight: 1
+      - path: Broche02/pPlane1 12
+        weight: 1
+      - path: Broche03
+        weight: 1
+      - path: Broche03/pPlane1 16
+        weight: 1
+      - path: Broche04
+        weight: 1
+      - path: Broche04/pPlane1 17
+        weight: 1
+      - path: Broche05
+        weight: 1
+      - path: Broche05/pPlane1 18
+        weight: 1
+      - path: Broche06
+        weight: 1
+      - path: Broche06/pPlane1 19
+        weight: 1
+      - path: Broche07
+        weight: 1
+      - path: Broche07/pPlane1 20
+        weight: 1
+      - path: Broche08
+        weight: 1
+      - path: Broche08/pPlane1 21
+        weight: 1
+      - path: Broche09
+        weight: 1
+      - path: Broche09/pPlane1 22
+        weight: 1
+      - path: Broche010
+        weight: 1
+      - path: Broche010/pPlane1 2
+        weight: 1
+      - path: Broche011
+        weight: 1
+      - path: Broche011/pPlane1 3
+        weight: 1
+      - path: Broche012
+        weight: 1
+      - path: Broche012/pPlane1 4
+        weight: 1
+      - path: Broche013
+        weight: 1
+      - path: Broche013/pPlane1 5
+        weight: 1
+      - path: Broche014
+        weight: 1
+      - path: Broche014/pPlane1 6
+        weight: 1
+      - path: Broche015
+        weight: 1
+      - path: Broche015/pPlane1 7
+        weight: 1
+      - path: Broche016
+        weight: 1
+      - path: Broche016/pPlane1 8
+        weight: 1
+      - path: Broche017
+        weight: 1
+      - path: Broche017/pPlane1 9
+        weight: 1
+      - path: Broche018
+        weight: 1
+      - path: Broche018/pPlane1 10
+        weight: 1
+      - path: Broche019
+        weight: 1
+      - path: Broche019/pPlane1 11
+        weight: 1
+      - path: Broche020
+        weight: 1
+      - path: Broche021
+        weight: 1
+      - path: Broche022
+        weight: 1
+      - path: Broche022/pPlane1 13
+        weight: 1
+      - path: Broche023
+        weight: 1
+      - path: Broche023/pPlane1 14
+        weight: 1
+      - path: Broche024
+        weight: 1
+      - path: Broche024/pPlane1 15
+        weight: 1
+      - path: Cocina_Geo
+        weight: 1
+      - path: Cocina_Geo/Baul
+        weight: 1
+      - path: Cocina_Geo/Ikitoi_Auto_Anim_Op02_v10:Parabrisas1
+        weight: 1
+      - path: Cocina_Geo/Ikitoi_Auto_Anim_Op02_v10:pCube12
+        weight: 1
+      - path: Cocina_Geo/object_44
+        weight: 1
+      - path: Cocina_Geo/object_45
+        weight: 1
+      - path: Cocina_Geo/object_46
+        weight: 1
+      - path: Cocina_Geo/pCube12
+        weight: 1
+      - path: Cocina_Geo/pCube13
+        weight: 1
+      - path: Cocina_Geo/pCube15
+        weight: 1
+      - path: Cocina_Geo/pCube16
+        weight: 1
+      - path: Cocina_Geo/pCube17
+        weight: 1
+      - path: Cocina_Geo/pCylinder1
+        weight: 1
+      - path: Cocina_Geo/pCylinder2
+        weight: 1
+      - path: Cocina_Geo/pCylinder3
+        weight: 1
+      - path: Cocina_Geo/pCylinder4
+        weight: 1
+      - path: Cocina_Geo/pCylinder5
+        weight: 1
+      - path: Cocina_Geo/pCylinder6
+        weight: 1
+      - path: Cocina_Geo/pCylinder7
+        weight: 1
+      - path: Cocina_Geo/pPipe1
+        weight: 1
+      - path: Cocina_Geo/pPipe2
+        weight: 1
+      - path: Cocina_Geo/pPipe3
+        weight: 1
+      - path: Cocina_Geo/pPipe4
+        weight: 1
+      - path: Cocina_Geo/pPlane3
+        weight: 1
+      - path: Cocina_Geo/pPlane4
+        weight: 1
+      - path: Cocina_Geo/pPlane5
+        weight: 1
+      - path: Cocina_Geo/VentanaLateral3
+        weight: 1
+      - path: Cocina_Geo/VentanaLateral4
+        weight: 1
+      - path: group1
+        weight: 1
+      - path: group1/Broche01 1
+        weight: 1
+      - path: group1/Broche01 1/pPlane1 23
+        weight: 1
+      - path: group1/Broche02 1
+        weight: 1
+      - path: group1/Broche02 1/pPlane1 24
+        weight: 1
+      - path: group1/Broche03 1
+        weight: 1
+      - path: group1/Broche03 1/pPlane1 25
+        weight: 1
+      - path: group1/Broche04 1
+        weight: 1
+      - path: group1/Broche04 1/pPlane1 26
+        weight: 1
+      - path: group1/Broche05 1
+        weight: 1
+      - path: group1/Broche05 1/pPlane1 27
+        weight: 1
+      - path: group1/Broche06 1
+        weight: 1
+      - path: group1/Broche06 1/pPlane1 28
+        weight: 1
+      - path: group1/Broche07 1
+        weight: 1
+      - path: group1/Broche07 1/pPlane1 29
+        weight: 1
+      - path: group1/Broche31:Broche01
+        weight: 1
+      - path: group1/Broche31:Broche01/Broche31:pPlane1
+        weight: 1
+      - path: group2
+        weight: 1
+      - path: joint1
+        weight: 1
+      - path: joint1/joint1 1
+        weight: 1
+      - path: joint1/joint1 1/joint2 1
+        weight: 1
+      - path: joint1/joint1 1/joint2 1/joint3 1
+        weight: 1
+      - path: joint1/joint1 1/joint4
+        weight: 1
+      - path: joint1/joint1 1/joint4/joint5
+        weight: 1
+      - path: joint1/joint37
+        weight: 1
+      - path: joint1/joint37/joint2 2
+        weight: 1
+      - path: joint1/joint37/joint2 2/joint3 2
+        weight: 1
+      - path: joint1/joint37/joint4 1
+        weight: 1
+      - path: joint1/joint37/joint4 1/joint5 1
+        weight: 1
+      - path: joint1/joint38
+        weight: 1
+      - path: joint1/joint38/joint2 3
+        weight: 1
+      - path: joint1/joint38/joint2 3/joint3 3
+        weight: 1
+      - path: joint1/joint38/joint4 2
+        weight: 1
+      - path: joint1/joint38/joint4 2/joint5 2
+        weight: 1
+      - path: joint1/joint39
+        weight: 1
+      - path: joint1/joint39/joint2 4
+        weight: 1
+      - path: joint1/joint39/joint2 4/joint3 4
+        weight: 1
+      - path: joint1/joint39/joint4 3
+        weight: 1
+      - path: joint1/joint39/joint4 3/joint5 3
+        weight: 1
+      - path: joint2
+        weight: 1
+      - path: joint2/transform5
+        weight: 1
+      - path: joint2/transform5/joint1 5
+        weight: 1
+      - path: joint2/transform5/joint1 5/joint2 11
+        weight: 1
+      - path: joint2/transform5/joint1 5/joint2 11/joint3 11
+        weight: 1
+      - path: joint2/transform5/joint1 5/joint4 11
+        weight: 1
+      - path: joint2/transform5/joint1 5/joint4 11/joint5 10
+        weight: 1
+      - path: joint2/transform6
+        weight: 1
+      - path: joint2/transform6/joint1 6
+        weight: 1
+      - path: joint2/transform6/joint1 6/joint2 12
+        weight: 1
+      - path: joint2/transform6/joint1 6/joint2 12/joint3 12
+        weight: 1
+      - path: joint2/transform6/joint1 6/joint4 12
+        weight: 1
+      - path: joint2/transform6/joint1 6/joint4 12/joint5 11
+        weight: 1
+      - path: joint2/transform7
+        weight: 1
+      - path: joint2/transform7/joint1 7
+        weight: 1
+      - path: joint2/transform7/joint1 7/joint2 13
+        weight: 1
+      - path: joint2/transform7/joint1 7/joint2 13/joint3 13
+        weight: 1
+      - path: joint2/transform7/joint1 7/joint4 13
+        weight: 1
+      - path: joint2/transform7/joint1 7/joint4 13/joint5 12
+        weight: 1
+      - path: joint2/transform8
+        weight: 1
+      - path: joint2/transform8/joint1 8
+        weight: 1
+      - path: joint2/transform8/joint1 8/joint2 14
+        weight: 1
+      - path: joint2/transform8/joint1 8/joint2 14/joint3 14
+        weight: 1
+      - path: joint2/transform8/joint1 8/joint4 14
+        weight: 1
+      - path: joint2/transform8/joint1 8/joint4 14/joint5 13
+        weight: 1
+      - path: joint10
+        weight: 1
+      - path: joint10/joint1 2
+        weight: 1
+      - path: joint10/joint1 2/joint2 5
+        weight: 1
+      - path: joint10/joint1 2/joint2 5/joint3 5
+        weight: 1
+      - path: joint10/joint1 2/joint4 4
+        weight: 1
+      - path: joint10/joint1 2/joint4 4/joint5 4
+        weight: 1
+      - path: joint10/joint11
+        weight: 1
+      - path: joint10/joint11/joint48
+        weight: 1
+      - path: joint10/joint11/joint48/joint4 6
+        weight: 1
+      - path: joint10/joint11/joint48/joint4 6/joint47
+        weight: 1
+      - path: joint10/joint11/joint48/joint4 6/joint47/joint2 25
+        weight: 1
+      - path: joint10/joint11/joint48/joint4 6/joint47/joint2 25/joint3 25
+        weight: 1
+      - path: joint10/joint11/joint48/joint4 6/joint47/joint4 25
+        weight: 1
+      - path: joint10/joint11/joint48/joint4 6/joint47/joint4 25/joint5 24
+        weight: 1
+      - path: joint10/joint29
+        weight: 1
+      - path: joint10/joint29/joint1 3
+        weight: 1
+      - path: joint10/joint29/joint1 3/joint2 7
+        weight: 1
+      - path: joint10/joint29/joint1 3/joint2 7/joint3 7
+        weight: 1
+      - path: joint10/joint29/joint1 3/joint4 7
+        weight: 1
+      - path: joint10/joint29/joint1 3/joint4 7/joint5 6
+        weight: 1
+      - path: joint10/joint29/joint3
+        weight: 1
+      - path: joint10/joint29/joint3/joint1 10
+        weight: 1
+      - path: joint10/joint29/joint3/joint1 10/joint2 20
+        weight: 1
+      - path: joint10/joint29/joint3/joint1 10/joint2 20/joint3 20
+        weight: 1
+      - path: joint10/joint29/joint3/joint1 10/joint4 20
+        weight: 1
+      - path: joint10/joint29/joint3/joint1 10/joint4 20/joint5 19
+        weight: 1
+      - path: joint10/joint29/joint3/joint22
+        weight: 1
+      - path: joint10/joint29/joint3/joint23
+        weight: 1
+      - path: joint10/joint29/joint3/joint24
+        weight: 1
+      - path: joint10/joint29/joint3/joint25
+        weight: 1
+      - path: joint10/joint29/joint3/joint31
+        weight: 1
+      - path: joint10/joint29/joint3/joint40
+        weight: 1
+      - path: joint10/joint29/joint3/joint40/joint2 21
+        weight: 1
+      - path: joint10/joint29/joint3/joint40/joint2 21/joint3 21
+        weight: 1
+      - path: joint10/joint29/joint3/joint40/joint4 21
+        weight: 1
+      - path: joint10/joint29/joint3/joint40/joint4 21/joint5 20
+        weight: 1
+      - path: joint10/joint29/joint3/joint44
+        weight: 1
+      - path: joint10/joint29/joint3/joint44/joint2 22
+        weight: 1
+      - path: joint10/joint29/joint3/joint44/joint2 22/joint3 22
+        weight: 1
+      - path: joint10/joint29/joint3/joint44/joint4 22
+        weight: 1
+      - path: joint10/joint29/joint3/joint44/joint4 22/joint5 21
+        weight: 1
+      - path: joint10/joint32
+        weight: 1
+      - path: joint10/joint32/joint1 4
+        weight: 1
+      - path: joint10/joint32/joint1 4/joint2 8
+        weight: 1
+      - path: joint10/joint32/joint1 4/joint2 8/joint3 8
+        weight: 1
+      - path: joint10/joint32/joint1 4/joint4 8
+        weight: 1
+      - path: joint10/joint32/joint1 4/joint4 8/joint5 7
+        weight: 1
+      - path: joint10/joint32/joint30
+        weight: 1
+      - path: joint10/joint32/joint30/joint9
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint1 13
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint1 13/joint2 26
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint1 13/joint2 26/joint3 26
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint1 13/joint4 26
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint1 13/joint4 26/joint5 25
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint12
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint13
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint14
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint15
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint42
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint42/joint2 27
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint42/joint2 27/joint3 27
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint42/joint4 27
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint42/joint4 27/joint5 26
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint43
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint43/joint2 28
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint43/joint2 28/joint3 28
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint43/joint4 28
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint43/joint4 28/joint5 27
+        weight: 1
+      - path: joint10/joint32/joint41
+        weight: 1
+      - path: joint10/joint32/joint41/joint2 9
+        weight: 1
+      - path: joint10/joint32/joint41/joint2 9/joint3 9
+        weight: 1
+      - path: joint10/joint32/joint41/joint4 9
+        weight: 1
+      - path: joint10/joint32/joint41/joint4 9/joint5 8
+        weight: 1
+      - path: joint10/joint32/joint46
+        weight: 1
+      - path: joint10/joint32/joint46/joint2 10
+        weight: 1
+      - path: joint10/joint32/joint46/joint2 10/joint3 10
+        weight: 1
+      - path: joint10/joint32/joint46/joint4 10
+        weight: 1
+      - path: joint10/joint32/joint46/joint4 10/joint5 9
+        weight: 1
+      - path: joint10/joint45
+        weight: 1
+      - path: joint10/joint45/joint2 6
+        weight: 1
+      - path: joint10/joint45/joint2 6/joint3 6
+        weight: 1
+      - path: joint10/joint45/joint4 5
+        weight: 1
+      - path: joint10/joint45/joint4 5/joint5 5
+        weight: 1
+      - path: joint21
+        weight: 1
+      - path: joint21/joint6
+        weight: 1
+      - path: joint21/joint6/joint1 9
+        weight: 1
+      - path: joint21/joint6/joint1 9/joint2 15
+        weight: 1
+      - path: joint21/joint6/joint1 9/joint2 15/joint3 15
+        weight: 1
+      - path: joint21/joint6/joint1 9/joint4 15
+        weight: 1
+      - path: joint21/joint6/joint1 9/joint4 15/joint5 14
+        weight: 1
+      - path: joint21/joint6/joint16
+        weight: 1
+      - path: joint21/joint6/joint17
+        weight: 1
+      - path: joint21/joint6/joint18
+        weight: 1
+      - path: joint21/joint6/joint19
+        weight: 1
+      - path: joint21/joint6/joint19/joint7
+        weight: 1
+      - path: joint21/joint6/joint19/joint7/transform3
+        weight: 1
+      - path: joint21/joint6/joint19/joint7/transform3/joint1 15
+        weight: 1
+      - path: joint21/joint6/joint19/joint7/transform3/joint1 15/joint2 30
+        weight: 1
+      - path: joint21/joint6/joint19/joint7/transform3/joint1 15/joint2 30/joint3
+          30
+        weight: 1
+      - path: joint21/joint6/joint19/joint7/transform3/joint1 15/joint4 30
+        weight: 1
+      - path: joint21/joint6/joint19/joint7/transform3/joint1 15/joint4 30/joint5
+          29
+        weight: 1
+      - path: joint21/joint6/joint19/joint7/transform4
+        weight: 1
+      - path: joint21/joint6/joint19/joint7/transform4/joint1 16
+        weight: 1
+      - path: joint21/joint6/joint19/joint7/transform4/joint1 16/joint2 31
+        weight: 1
+      - path: joint21/joint6/joint19/joint7/transform4/joint1 16/joint2 31/joint3
+          31
+        weight: 1
+      - path: joint21/joint6/joint19/joint7/transform4/joint1 16/joint4 31
+        weight: 1
+      - path: joint21/joint6/joint19/joint7/transform4/joint1 16/joint4 31/joint5
+          30
+        weight: 1
+      - path: joint21/joint6/joint20
+        weight: 1
+      - path: joint21/joint6/joint20/joint8
+        weight: 1
+      - path: joint21/joint6/joint20/joint8/Broche31:joint1
+        weight: 1
+      - path: joint21/joint6/joint20/joint8/Broche31:joint1/Broche31:joint2
+        weight: 1
+      - path: joint21/joint6/joint20/joint8/Broche31:joint1/Broche31:joint2/Broche31:joint3
+        weight: 1
+      - path: joint21/joint6/joint20/joint8/Broche31:joint1/Broche31:joint4
+        weight: 1
+      - path: joint21/joint6/joint20/joint8/Broche31:joint1/Broche31:joint4/Broche31:joint5
+        weight: 1
+      - path: joint21/joint6/joint20/joint8/joint1 14
+        weight: 1
+      - path: joint21/joint6/joint20/joint8/joint1 14/joint2 29
+        weight: 1
+      - path: joint21/joint6/joint20/joint8/joint1 14/joint2 29/joint3 29
+        weight: 1
+      - path: joint21/joint6/joint20/joint8/joint1 14/joint4 29
+        weight: 1
+      - path: joint21/joint6/joint20/joint8/joint1 14/joint4 29/joint5 28
+        weight: 1
+      - path: joint21/joint6/joint33
+        weight: 1
+      - path: joint21/joint6/joint33/joint2 16
+        weight: 1
+      - path: joint21/joint6/joint33/joint2 16/joint3 16
+        weight: 1
+      - path: joint21/joint6/joint33/joint4 16
+        weight: 1
+      - path: joint21/joint6/joint33/joint4 16/joint5 15
+        weight: 1
+      - path: joint21/joint6/joint34
+        weight: 1
+      - path: joint21/joint6/joint34/joint2 17
+        weight: 1
+      - path: joint21/joint6/joint34/joint2 17/joint3 17
+        weight: 1
+      - path: joint21/joint6/joint34/joint4 17
+        weight: 1
+      - path: joint21/joint6/joint34/joint4 17/joint5 16
+        weight: 1
+      - path: joint21/joint6/joint35
+        weight: 1
+      - path: joint21/joint6/joint35/joint2 18
+        weight: 1
+      - path: joint21/joint6/joint35/joint2 18/joint3 18
+        weight: 1
+      - path: joint21/joint6/joint35/joint4 18
+        weight: 1
+      - path: joint21/joint6/joint35/joint4 18/joint5 17
+        weight: 1
+      - path: joint21/joint6/joint36
+        weight: 1
+      - path: joint21/joint6/joint36/joint2 19
+        weight: 1
+      - path: joint21/joint6/joint36/joint2 19/joint3 19
+        weight: 1
+      - path: joint21/joint6/joint36/joint4 19
+        weight: 1
+      - path: joint21/joint6/joint36/joint4 19/joint5 18
+        weight: 1
+      - path: joint21/joint6/transform1
+        weight: 1
+      - path: joint21/joint6/transform1/joint1 11
+        weight: 1
+      - path: joint21/joint6/transform1/joint1 11/joint2 23
+        weight: 1
+      - path: joint21/joint6/transform1/joint1 11/joint2 23/joint3 23
+        weight: 1
+      - path: joint21/joint6/transform1/joint1 11/joint4 23
+        weight: 1
+      - path: joint21/joint6/transform1/joint1 11/joint4 23/joint5 22
+        weight: 1
+      - path: joint21/joint6/transform2
+        weight: 1
+      - path: joint21/joint6/transform2/joint1 12
+        weight: 1
+      - path: joint21/joint6/transform2/joint1 12/joint2 24
+        weight: 1
+      - path: joint21/joint6/transform2/joint1 12/joint2 24/joint3 24
+        weight: 1
+      - path: joint21/joint6/transform2/joint1 12/joint4 24
+        weight: 1
+      - path: joint21/joint6/transform2/joint1 12/joint4 24/joint5 23
+        weight: 1
+      - path: joint28
+        weight: 1
+      - path: PlanoSombra:pPlane1
+        weight: 1
+      - path: pointLight1
+        weight: 1
+      - path: pointLight2
+        weight: 1
+      - path: pPlane1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: 4
+      takeName: Take 001
+      firstFrame: 130
+      lastFrame: 170
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Broche01
+        weight: 1
+      - path: Broche01/pPlane1 1
+        weight: 1
+      - path: Broche02
+        weight: 1
+      - path: Broche02/pPlane1 12
+        weight: 1
+      - path: Broche03
+        weight: 1
+      - path: Broche03/pPlane1 16
+        weight: 1
+      - path: Broche04
+        weight: 1
+      - path: Broche04/pPlane1 17
+        weight: 1
+      - path: Broche05
+        weight: 1
+      - path: Broche05/pPlane1 18
+        weight: 1
+      - path: Broche06
+        weight: 1
+      - path: Broche06/pPlane1 19
+        weight: 1
+      - path: Broche07
+        weight: 1
+      - path: Broche07/pPlane1 20
+        weight: 1
+      - path: Broche08
+        weight: 1
+      - path: Broche08/pPlane1 21
+        weight: 1
+      - path: Broche09
+        weight: 1
+      - path: Broche09/pPlane1 22
+        weight: 1
+      - path: Broche010
+        weight: 1
+      - path: Broche010/pPlane1 2
+        weight: 1
+      - path: Broche011
+        weight: 1
+      - path: Broche011/pPlane1 3
+        weight: 1
+      - path: Broche012
+        weight: 1
+      - path: Broche012/pPlane1 4
+        weight: 1
+      - path: Broche013
+        weight: 1
+      - path: Broche013/pPlane1 5
+        weight: 1
+      - path: Broche014
+        weight: 1
+      - path: Broche014/pPlane1 6
+        weight: 1
+      - path: Broche015
+        weight: 1
+      - path: Broche015/pPlane1 7
+        weight: 1
+      - path: Broche016
+        weight: 1
+      - path: Broche016/pPlane1 8
+        weight: 1
+      - path: Broche017
+        weight: 1
+      - path: Broche017/pPlane1 9
+        weight: 1
+      - path: Broche018
+        weight: 1
+      - path: Broche018/pPlane1 10
+        weight: 1
+      - path: Broche019
+        weight: 1
+      - path: Broche019/pPlane1 11
+        weight: 1
+      - path: Broche020
+        weight: 1
+      - path: Broche021
+        weight: 1
+      - path: Broche022
+        weight: 1
+      - path: Broche022/pPlane1 13
+        weight: 1
+      - path: Broche023
+        weight: 1
+      - path: Broche023/pPlane1 14
+        weight: 1
+      - path: Broche024
+        weight: 1
+      - path: Broche024/pPlane1 15
+        weight: 1
+      - path: Cocina_Geo
+        weight: 1
+      - path: Cocina_Geo/Baul
+        weight: 1
+      - path: Cocina_Geo/Ikitoi_Auto_Anim_Op02_v10:Parabrisas1
+        weight: 1
+      - path: Cocina_Geo/Ikitoi_Auto_Anim_Op02_v10:pCube12
+        weight: 1
+      - path: Cocina_Geo/object_44
+        weight: 1
+      - path: Cocina_Geo/object_45
+        weight: 1
+      - path: Cocina_Geo/object_46
+        weight: 1
+      - path: Cocina_Geo/pCube12
+        weight: 1
+      - path: Cocina_Geo/pCube13
+        weight: 1
+      - path: Cocina_Geo/pCube15
+        weight: 1
+      - path: Cocina_Geo/pCube16
+        weight: 1
+      - path: Cocina_Geo/pCube17
+        weight: 1
+      - path: Cocina_Geo/pCylinder1
+        weight: 1
+      - path: Cocina_Geo/pCylinder2
+        weight: 1
+      - path: Cocina_Geo/pCylinder3
+        weight: 1
+      - path: Cocina_Geo/pCylinder4
+        weight: 1
+      - path: Cocina_Geo/pCylinder5
+        weight: 1
+      - path: Cocina_Geo/pCylinder6
+        weight: 1
+      - path: Cocina_Geo/pCylinder7
+        weight: 1
+      - path: Cocina_Geo/pPipe1
+        weight: 1
+      - path: Cocina_Geo/pPipe2
+        weight: 1
+      - path: Cocina_Geo/pPipe3
+        weight: 1
+      - path: Cocina_Geo/pPipe4
+        weight: 1
+      - path: Cocina_Geo/pPlane3
+        weight: 1
+      - path: Cocina_Geo/pPlane4
+        weight: 1
+      - path: Cocina_Geo/pPlane5
+        weight: 1
+      - path: Cocina_Geo/VentanaLateral3
+        weight: 1
+      - path: Cocina_Geo/VentanaLateral4
+        weight: 1
+      - path: group1
+        weight: 1
+      - path: group1/Broche01 1
+        weight: 1
+      - path: group1/Broche01 1/pPlane1 23
+        weight: 1
+      - path: group1/Broche02 1
+        weight: 1
+      - path: group1/Broche02 1/pPlane1 24
+        weight: 1
+      - path: group1/Broche03 1
+        weight: 1
+      - path: group1/Broche03 1/pPlane1 25
+        weight: 1
+      - path: group1/Broche04 1
+        weight: 1
+      - path: group1/Broche04 1/pPlane1 26
+        weight: 1
+      - path: group1/Broche05 1
+        weight: 1
+      - path: group1/Broche05 1/pPlane1 27
+        weight: 1
+      - path: group1/Broche06 1
+        weight: 1
+      - path: group1/Broche06 1/pPlane1 28
+        weight: 1
+      - path: group1/Broche07 1
+        weight: 1
+      - path: group1/Broche07 1/pPlane1 29
+        weight: 1
+      - path: group1/Broche31:Broche01
+        weight: 1
+      - path: group1/Broche31:Broche01/Broche31:pPlane1
+        weight: 1
+      - path: group2
+        weight: 1
+      - path: joint1
+        weight: 1
+      - path: joint1/joint1 1
+        weight: 1
+      - path: joint1/joint1 1/joint2 1
+        weight: 1
+      - path: joint1/joint1 1/joint2 1/joint3 1
+        weight: 1
+      - path: joint1/joint1 1/joint4
+        weight: 1
+      - path: joint1/joint1 1/joint4/joint5
+        weight: 1
+      - path: joint1/joint37
+        weight: 1
+      - path: joint1/joint37/joint2 2
+        weight: 1
+      - path: joint1/joint37/joint2 2/joint3 2
+        weight: 1
+      - path: joint1/joint37/joint4 1
+        weight: 1
+      - path: joint1/joint37/joint4 1/joint5 1
+        weight: 1
+      - path: joint1/joint38
+        weight: 1
+      - path: joint1/joint38/joint2 3
+        weight: 1
+      - path: joint1/joint38/joint2 3/joint3 3
+        weight: 1
+      - path: joint1/joint38/joint4 2
+        weight: 1
+      - path: joint1/joint38/joint4 2/joint5 2
+        weight: 1
+      - path: joint1/joint39
+        weight: 1
+      - path: joint1/joint39/joint2 4
+        weight: 1
+      - path: joint1/joint39/joint2 4/joint3 4
+        weight: 1
+      - path: joint1/joint39/joint4 3
+        weight: 1
+      - path: joint1/joint39/joint4 3/joint5 3
+        weight: 1
+      - path: joint2
+        weight: 1
+      - path: joint2/transform5
+        weight: 1
+      - path: joint2/transform5/joint1 5
+        weight: 1
+      - path: joint2/transform5/joint1 5/joint2 11
+        weight: 1
+      - path: joint2/transform5/joint1 5/joint2 11/joint3 11
+        weight: 1
+      - path: joint2/transform5/joint1 5/joint4 11
+        weight: 1
+      - path: joint2/transform5/joint1 5/joint4 11/joint5 10
+        weight: 1
+      - path: joint2/transform6
+        weight: 1
+      - path: joint2/transform6/joint1 6
+        weight: 1
+      - path: joint2/transform6/joint1 6/joint2 12
+        weight: 1
+      - path: joint2/transform6/joint1 6/joint2 12/joint3 12
+        weight: 1
+      - path: joint2/transform6/joint1 6/joint4 12
+        weight: 1
+      - path: joint2/transform6/joint1 6/joint4 12/joint5 11
+        weight: 1
+      - path: joint2/transform7
+        weight: 1
+      - path: joint2/transform7/joint1 7
+        weight: 1
+      - path: joint2/transform7/joint1 7/joint2 13
+        weight: 1
+      - path: joint2/transform7/joint1 7/joint2 13/joint3 13
+        weight: 1
+      - path: joint2/transform7/joint1 7/joint4 13
+        weight: 1
+      - path: joint2/transform7/joint1 7/joint4 13/joint5 12
+        weight: 1
+      - path: joint2/transform8
+        weight: 1
+      - path: joint2/transform8/joint1 8
+        weight: 1
+      - path: joint2/transform8/joint1 8/joint2 14
+        weight: 1
+      - path: joint2/transform8/joint1 8/joint2 14/joint3 14
+        weight: 1
+      - path: joint2/transform8/joint1 8/joint4 14
+        weight: 1
+      - path: joint2/transform8/joint1 8/joint4 14/joint5 13
+        weight: 1
+      - path: joint10
+        weight: 1
+      - path: joint10/joint1 2
+        weight: 1
+      - path: joint10/joint1 2/joint2 5
+        weight: 1
+      - path: joint10/joint1 2/joint2 5/joint3 5
+        weight: 1
+      - path: joint10/joint1 2/joint4 4
+        weight: 1
+      - path: joint10/joint1 2/joint4 4/joint5 4
+        weight: 1
+      - path: joint10/joint11
+        weight: 1
+      - path: joint10/joint11/joint48
+        weight: 1
+      - path: joint10/joint11/joint48/joint4 6
+        weight: 1
+      - path: joint10/joint11/joint48/joint4 6/joint47
+        weight: 1
+      - path: joint10/joint11/joint48/joint4 6/joint47/joint2 25
+        weight: 1
+      - path: joint10/joint11/joint48/joint4 6/joint47/joint2 25/joint3 25
+        weight: 1
+      - path: joint10/joint11/joint48/joint4 6/joint47/joint4 25
+        weight: 1
+      - path: joint10/joint11/joint48/joint4 6/joint47/joint4 25/joint5 24
+        weight: 1
+      - path: joint10/joint29
+        weight: 1
+      - path: joint10/joint29/joint1 3
+        weight: 1
+      - path: joint10/joint29/joint1 3/joint2 7
+        weight: 1
+      - path: joint10/joint29/joint1 3/joint2 7/joint3 7
+        weight: 1
+      - path: joint10/joint29/joint1 3/joint4 7
+        weight: 1
+      - path: joint10/joint29/joint1 3/joint4 7/joint5 6
+        weight: 1
+      - path: joint10/joint29/joint3
+        weight: 1
+      - path: joint10/joint29/joint3/joint1 10
+        weight: 1
+      - path: joint10/joint29/joint3/joint1 10/joint2 20
+        weight: 1
+      - path: joint10/joint29/joint3/joint1 10/joint2 20/joint3 20
+        weight: 1
+      - path: joint10/joint29/joint3/joint1 10/joint4 20
+        weight: 1
+      - path: joint10/joint29/joint3/joint1 10/joint4 20/joint5 19
+        weight: 1
+      - path: joint10/joint29/joint3/joint22
+        weight: 1
+      - path: joint10/joint29/joint3/joint23
+        weight: 1
+      - path: joint10/joint29/joint3/joint24
+        weight: 1
+      - path: joint10/joint29/joint3/joint25
+        weight: 1
+      - path: joint10/joint29/joint3/joint31
+        weight: 1
+      - path: joint10/joint29/joint3/joint40
+        weight: 1
+      - path: joint10/joint29/joint3/joint40/joint2 21
+        weight: 1
+      - path: joint10/joint29/joint3/joint40/joint2 21/joint3 21
+        weight: 1
+      - path: joint10/joint29/joint3/joint40/joint4 21
+        weight: 1
+      - path: joint10/joint29/joint3/joint40/joint4 21/joint5 20
+        weight: 1
+      - path: joint10/joint29/joint3/joint44
+        weight: 1
+      - path: joint10/joint29/joint3/joint44/joint2 22
+        weight: 1
+      - path: joint10/joint29/joint3/joint44/joint2 22/joint3 22
+        weight: 1
+      - path: joint10/joint29/joint3/joint44/joint4 22
+        weight: 1
+      - path: joint10/joint29/joint3/joint44/joint4 22/joint5 21
+        weight: 1
+      - path: joint10/joint32
+        weight: 1
+      - path: joint10/joint32/joint1 4
+        weight: 1
+      - path: joint10/joint32/joint1 4/joint2 8
+        weight: 1
+      - path: joint10/joint32/joint1 4/joint2 8/joint3 8
+        weight: 1
+      - path: joint10/joint32/joint1 4/joint4 8
+        weight: 1
+      - path: joint10/joint32/joint1 4/joint4 8/joint5 7
+        weight: 1
+      - path: joint10/joint32/joint30
+        weight: 1
+      - path: joint10/joint32/joint30/joint9
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint1 13
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint1 13/joint2 26
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint1 13/joint2 26/joint3 26
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint1 13/joint4 26
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint1 13/joint4 26/joint5 25
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint12
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint13
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint14
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint15
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint42
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint42/joint2 27
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint42/joint2 27/joint3 27
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint42/joint4 27
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint42/joint4 27/joint5 26
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint43
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint43/joint2 28
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint43/joint2 28/joint3 28
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint43/joint4 28
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint43/joint4 28/joint5 27
+        weight: 1
+      - path: joint10/joint32/joint41
+        weight: 1
+      - path: joint10/joint32/joint41/joint2 9
+        weight: 1
+      - path: joint10/joint32/joint41/joint2 9/joint3 9
+        weight: 1
+      - path: joint10/joint32/joint41/joint4 9
+        weight: 1
+      - path: joint10/joint32/joint41/joint4 9/joint5 8
+        weight: 1
+      - path: joint10/joint32/joint46
+        weight: 1
+      - path: joint10/joint32/joint46/joint2 10
+        weight: 1
+      - path: joint10/joint32/joint46/joint2 10/joint3 10
+        weight: 1
+      - path: joint10/joint32/joint46/joint4 10
+        weight: 1
+      - path: joint10/joint32/joint46/joint4 10/joint5 9
+        weight: 1
+      - path: joint10/joint45
+        weight: 1
+      - path: joint10/joint45/joint2 6
+        weight: 1
+      - path: joint10/joint45/joint2 6/joint3 6
+        weight: 1
+      - path: joint10/joint45/joint4 5
+        weight: 1
+      - path: joint10/joint45/joint4 5/joint5 5
+        weight: 1
+      - path: joint21
+        weight: 1
+      - path: joint21/joint6
+        weight: 1
+      - path: joint21/joint6/joint1 9
+        weight: 1
+      - path: joint21/joint6/joint1 9/joint2 15
+        weight: 1
+      - path: joint21/joint6/joint1 9/joint2 15/joint3 15
+        weight: 1
+      - path: joint21/joint6/joint1 9/joint4 15
+        weight: 1
+      - path: joint21/joint6/joint1 9/joint4 15/joint5 14
+        weight: 1
+      - path: joint21/joint6/joint16
+        weight: 1
+      - path: joint21/joint6/joint17
+        weight: 1
+      - path: joint21/joint6/joint18
+        weight: 1
+      - path: joint21/joint6/joint19
+        weight: 1
+      - path: joint21/joint6/joint19/joint7
+        weight: 1
+      - path: joint21/joint6/joint19/joint7/transform3
+        weight: 1
+      - path: joint21/joint6/joint19/joint7/transform3/joint1 15
+        weight: 1
+      - path: joint21/joint6/joint19/joint7/transform3/joint1 15/joint2 30
+        weight: 1
+      - path: joint21/joint6/joint19/joint7/transform3/joint1 15/joint2 30/joint3
+          30
+        weight: 1
+      - path: joint21/joint6/joint19/joint7/transform3/joint1 15/joint4 30
+        weight: 1
+      - path: joint21/joint6/joint19/joint7/transform3/joint1 15/joint4 30/joint5
+          29
+        weight: 1
+      - path: joint21/joint6/joint19/joint7/transform4
+        weight: 1
+      - path: joint21/joint6/joint19/joint7/transform4/joint1 16
+        weight: 1
+      - path: joint21/joint6/joint19/joint7/transform4/joint1 16/joint2 31
+        weight: 1
+      - path: joint21/joint6/joint19/joint7/transform4/joint1 16/joint2 31/joint3
+          31
+        weight: 1
+      - path: joint21/joint6/joint19/joint7/transform4/joint1 16/joint4 31
+        weight: 1
+      - path: joint21/joint6/joint19/joint7/transform4/joint1 16/joint4 31/joint5
+          30
+        weight: 1
+      - path: joint21/joint6/joint20
+        weight: 1
+      - path: joint21/joint6/joint20/joint8
+        weight: 1
+      - path: joint21/joint6/joint20/joint8/Broche31:joint1
+        weight: 1
+      - path: joint21/joint6/joint20/joint8/Broche31:joint1/Broche31:joint2
+        weight: 1
+      - path: joint21/joint6/joint20/joint8/Broche31:joint1/Broche31:joint2/Broche31:joint3
+        weight: 1
+      - path: joint21/joint6/joint20/joint8/Broche31:joint1/Broche31:joint4
+        weight: 1
+      - path: joint21/joint6/joint20/joint8/Broche31:joint1/Broche31:joint4/Broche31:joint5
+        weight: 1
+      - path: joint21/joint6/joint20/joint8/joint1 14
+        weight: 1
+      - path: joint21/joint6/joint20/joint8/joint1 14/joint2 29
+        weight: 1
+      - path: joint21/joint6/joint20/joint8/joint1 14/joint2 29/joint3 29
+        weight: 1
+      - path: joint21/joint6/joint20/joint8/joint1 14/joint4 29
+        weight: 1
+      - path: joint21/joint6/joint20/joint8/joint1 14/joint4 29/joint5 28
+        weight: 1
+      - path: joint21/joint6/joint33
+        weight: 1
+      - path: joint21/joint6/joint33/joint2 16
+        weight: 1
+      - path: joint21/joint6/joint33/joint2 16/joint3 16
+        weight: 1
+      - path: joint21/joint6/joint33/joint4 16
+        weight: 1
+      - path: joint21/joint6/joint33/joint4 16/joint5 15
+        weight: 1
+      - path: joint21/joint6/joint34
+        weight: 1
+      - path: joint21/joint6/joint34/joint2 17
+        weight: 1
+      - path: joint21/joint6/joint34/joint2 17/joint3 17
+        weight: 1
+      - path: joint21/joint6/joint34/joint4 17
+        weight: 1
+      - path: joint21/joint6/joint34/joint4 17/joint5 16
+        weight: 1
+      - path: joint21/joint6/joint35
+        weight: 1
+      - path: joint21/joint6/joint35/joint2 18
+        weight: 1
+      - path: joint21/joint6/joint35/joint2 18/joint3 18
+        weight: 1
+      - path: joint21/joint6/joint35/joint4 18
+        weight: 1
+      - path: joint21/joint6/joint35/joint4 18/joint5 17
+        weight: 1
+      - path: joint21/joint6/joint36
+        weight: 1
+      - path: joint21/joint6/joint36/joint2 19
+        weight: 1
+      - path: joint21/joint6/joint36/joint2 19/joint3 19
+        weight: 1
+      - path: joint21/joint6/joint36/joint4 19
+        weight: 1
+      - path: joint21/joint6/joint36/joint4 19/joint5 18
+        weight: 1
+      - path: joint21/joint6/transform1
+        weight: 1
+      - path: joint21/joint6/transform1/joint1 11
+        weight: 1
+      - path: joint21/joint6/transform1/joint1 11/joint2 23
+        weight: 1
+      - path: joint21/joint6/transform1/joint1 11/joint2 23/joint3 23
+        weight: 1
+      - path: joint21/joint6/transform1/joint1 11/joint4 23
+        weight: 1
+      - path: joint21/joint6/transform1/joint1 11/joint4 23/joint5 22
+        weight: 1
+      - path: joint21/joint6/transform2
+        weight: 1
+      - path: joint21/joint6/transform2/joint1 12
+        weight: 1
+      - path: joint21/joint6/transform2/joint1 12/joint2 24
+        weight: 1
+      - path: joint21/joint6/transform2/joint1 12/joint2 24/joint3 24
+        weight: 1
+      - path: joint21/joint6/transform2/joint1 12/joint4 24
+        weight: 1
+      - path: joint21/joint6/transform2/joint1 12/joint4 24/joint5 23
+        weight: 1
+      - path: joint28
+        weight: 1
+      - path: PlanoSombra:pPlane1
+        weight: 1
+      - path: pointLight1
+        weight: 1
+      - path: pointLight2
+        weight: 1
+      - path: pPlane1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: 5
+      takeName: Take 001
+      firstFrame: 170
+      lastFrame: 277
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Broche01
+        weight: 1
+      - path: Broche01/pPlane1 1
+        weight: 1
+      - path: Broche02
+        weight: 1
+      - path: Broche02/pPlane1 12
+        weight: 1
+      - path: Broche03
+        weight: 1
+      - path: Broche03/pPlane1 16
+        weight: 1
+      - path: Broche04
+        weight: 1
+      - path: Broche04/pPlane1 17
+        weight: 1
+      - path: Broche05
+        weight: 1
+      - path: Broche05/pPlane1 18
+        weight: 1
+      - path: Broche06
+        weight: 1
+      - path: Broche06/pPlane1 19
+        weight: 1
+      - path: Broche07
+        weight: 1
+      - path: Broche07/pPlane1 20
+        weight: 1
+      - path: Broche08
+        weight: 1
+      - path: Broche08/pPlane1 21
+        weight: 1
+      - path: Broche09
+        weight: 1
+      - path: Broche09/pPlane1 22
+        weight: 1
+      - path: Broche010
+        weight: 1
+      - path: Broche010/pPlane1 2
+        weight: 1
+      - path: Broche011
+        weight: 1
+      - path: Broche011/pPlane1 3
+        weight: 1
+      - path: Broche012
+        weight: 1
+      - path: Broche012/pPlane1 4
+        weight: 1
+      - path: Broche013
+        weight: 1
+      - path: Broche013/pPlane1 5
+        weight: 1
+      - path: Broche014
+        weight: 1
+      - path: Broche014/pPlane1 6
+        weight: 1
+      - path: Broche015
+        weight: 1
+      - path: Broche015/pPlane1 7
+        weight: 1
+      - path: Broche016
+        weight: 1
+      - path: Broche016/pPlane1 8
+        weight: 1
+      - path: Broche017
+        weight: 1
+      - path: Broche017/pPlane1 9
+        weight: 1
+      - path: Broche018
+        weight: 1
+      - path: Broche018/pPlane1 10
+        weight: 1
+      - path: Broche019
+        weight: 1
+      - path: Broche019/pPlane1 11
+        weight: 1
+      - path: Broche020
+        weight: 1
+      - path: Broche021
+        weight: 1
+      - path: Broche022
+        weight: 1
+      - path: Broche022/pPlane1 13
+        weight: 1
+      - path: Broche023
+        weight: 1
+      - path: Broche023/pPlane1 14
+        weight: 1
+      - path: Broche024
+        weight: 1
+      - path: Broche024/pPlane1 15
+        weight: 1
+      - path: Cocina_Geo
+        weight: 1
+      - path: Cocina_Geo/Baul
+        weight: 1
+      - path: Cocina_Geo/Ikitoi_Auto_Anim_Op02_v10:Parabrisas1
+        weight: 1
+      - path: Cocina_Geo/Ikitoi_Auto_Anim_Op02_v10:pCube12
+        weight: 1
+      - path: Cocina_Geo/object_44
+        weight: 1
+      - path: Cocina_Geo/object_45
+        weight: 1
+      - path: Cocina_Geo/object_46
+        weight: 1
+      - path: Cocina_Geo/pCube12
+        weight: 1
+      - path: Cocina_Geo/pCube13
+        weight: 1
+      - path: Cocina_Geo/pCube15
+        weight: 1
+      - path: Cocina_Geo/pCube16
+        weight: 1
+      - path: Cocina_Geo/pCube17
+        weight: 1
+      - path: Cocina_Geo/pCylinder1
+        weight: 1
+      - path: Cocina_Geo/pCylinder2
+        weight: 1
+      - path: Cocina_Geo/pCylinder3
+        weight: 1
+      - path: Cocina_Geo/pCylinder4
+        weight: 1
+      - path: Cocina_Geo/pCylinder5
+        weight: 1
+      - path: Cocina_Geo/pCylinder6
+        weight: 1
+      - path: Cocina_Geo/pCylinder7
+        weight: 1
+      - path: Cocina_Geo/pPipe1
+        weight: 1
+      - path: Cocina_Geo/pPipe2
+        weight: 1
+      - path: Cocina_Geo/pPipe3
+        weight: 1
+      - path: Cocina_Geo/pPipe4
+        weight: 1
+      - path: Cocina_Geo/pPlane3
+        weight: 1
+      - path: Cocina_Geo/pPlane4
+        weight: 1
+      - path: Cocina_Geo/pPlane5
+        weight: 1
+      - path: Cocina_Geo/VentanaLateral3
+        weight: 1
+      - path: Cocina_Geo/VentanaLateral4
+        weight: 1
+      - path: group1
+        weight: 1
+      - path: group1/Broche01 1
+        weight: 1
+      - path: group1/Broche01 1/pPlane1 23
+        weight: 1
+      - path: group1/Broche02 1
+        weight: 1
+      - path: group1/Broche02 1/pPlane1 24
+        weight: 1
+      - path: group1/Broche03 1
+        weight: 1
+      - path: group1/Broche03 1/pPlane1 25
+        weight: 1
+      - path: group1/Broche04 1
+        weight: 1
+      - path: group1/Broche04 1/pPlane1 26
+        weight: 1
+      - path: group1/Broche05 1
+        weight: 1
+      - path: group1/Broche05 1/pPlane1 27
+        weight: 1
+      - path: group1/Broche06 1
+        weight: 1
+      - path: group1/Broche06 1/pPlane1 28
+        weight: 1
+      - path: group1/Broche07 1
+        weight: 1
+      - path: group1/Broche07 1/pPlane1 29
+        weight: 1
+      - path: group1/Broche31:Broche01
+        weight: 1
+      - path: group1/Broche31:Broche01/Broche31:pPlane1
+        weight: 1
+      - path: group2
+        weight: 1
+      - path: joint1
+        weight: 1
+      - path: joint1/joint1 1
+        weight: 1
+      - path: joint1/joint1 1/joint2 1
+        weight: 1
+      - path: joint1/joint1 1/joint2 1/joint3 1
+        weight: 1
+      - path: joint1/joint1 1/joint4
+        weight: 1
+      - path: joint1/joint1 1/joint4/joint5
+        weight: 1
+      - path: joint1/joint37
+        weight: 1
+      - path: joint1/joint37/joint2 2
+        weight: 1
+      - path: joint1/joint37/joint2 2/joint3 2
+        weight: 1
+      - path: joint1/joint37/joint4 1
+        weight: 1
+      - path: joint1/joint37/joint4 1/joint5 1
+        weight: 1
+      - path: joint1/joint38
+        weight: 1
+      - path: joint1/joint38/joint2 3
+        weight: 1
+      - path: joint1/joint38/joint2 3/joint3 3
+        weight: 1
+      - path: joint1/joint38/joint4 2
+        weight: 1
+      - path: joint1/joint38/joint4 2/joint5 2
+        weight: 1
+      - path: joint1/joint39
+        weight: 1
+      - path: joint1/joint39/joint2 4
+        weight: 1
+      - path: joint1/joint39/joint2 4/joint3 4
+        weight: 1
+      - path: joint1/joint39/joint4 3
+        weight: 1
+      - path: joint1/joint39/joint4 3/joint5 3
+        weight: 1
+      - path: joint2
+        weight: 1
+      - path: joint2/transform5
+        weight: 1
+      - path: joint2/transform5/joint1 5
+        weight: 1
+      - path: joint2/transform5/joint1 5/joint2 11
+        weight: 1
+      - path: joint2/transform5/joint1 5/joint2 11/joint3 11
+        weight: 1
+      - path: joint2/transform5/joint1 5/joint4 11
+        weight: 1
+      - path: joint2/transform5/joint1 5/joint4 11/joint5 10
+        weight: 1
+      - path: joint2/transform6
+        weight: 1
+      - path: joint2/transform6/joint1 6
+        weight: 1
+      - path: joint2/transform6/joint1 6/joint2 12
+        weight: 1
+      - path: joint2/transform6/joint1 6/joint2 12/joint3 12
+        weight: 1
+      - path: joint2/transform6/joint1 6/joint4 12
+        weight: 1
+      - path: joint2/transform6/joint1 6/joint4 12/joint5 11
+        weight: 1
+      - path: joint2/transform7
+        weight: 1
+      - path: joint2/transform7/joint1 7
+        weight: 1
+      - path: joint2/transform7/joint1 7/joint2 13
+        weight: 1
+      - path: joint2/transform7/joint1 7/joint2 13/joint3 13
+        weight: 1
+      - path: joint2/transform7/joint1 7/joint4 13
+        weight: 1
+      - path: joint2/transform7/joint1 7/joint4 13/joint5 12
+        weight: 1
+      - path: joint2/transform8
+        weight: 1
+      - path: joint2/transform8/joint1 8
+        weight: 1
+      - path: joint2/transform8/joint1 8/joint2 14
+        weight: 1
+      - path: joint2/transform8/joint1 8/joint2 14/joint3 14
+        weight: 1
+      - path: joint2/transform8/joint1 8/joint4 14
+        weight: 1
+      - path: joint2/transform8/joint1 8/joint4 14/joint5 13
+        weight: 1
+      - path: joint10
+        weight: 1
+      - path: joint10/joint1 2
+        weight: 1
+      - path: joint10/joint1 2/joint2 5
+        weight: 1
+      - path: joint10/joint1 2/joint2 5/joint3 5
+        weight: 1
+      - path: joint10/joint1 2/joint4 4
+        weight: 1
+      - path: joint10/joint1 2/joint4 4/joint5 4
+        weight: 1
+      - path: joint10/joint11
+        weight: 1
+      - path: joint10/joint11/joint48
+        weight: 1
+      - path: joint10/joint11/joint48/joint4 6
+        weight: 1
+      - path: joint10/joint11/joint48/joint4 6/joint47
+        weight: 1
+      - path: joint10/joint11/joint48/joint4 6/joint47/joint2 25
+        weight: 1
+      - path: joint10/joint11/joint48/joint4 6/joint47/joint2 25/joint3 25
+        weight: 1
+      - path: joint10/joint11/joint48/joint4 6/joint47/joint4 25
+        weight: 1
+      - path: joint10/joint11/joint48/joint4 6/joint47/joint4 25/joint5 24
+        weight: 1
+      - path: joint10/joint29
+        weight: 1
+      - path: joint10/joint29/joint1 3
+        weight: 1
+      - path: joint10/joint29/joint1 3/joint2 7
+        weight: 1
+      - path: joint10/joint29/joint1 3/joint2 7/joint3 7
+        weight: 1
+      - path: joint10/joint29/joint1 3/joint4 7
+        weight: 1
+      - path: joint10/joint29/joint1 3/joint4 7/joint5 6
+        weight: 1
+      - path: joint10/joint29/joint3
+        weight: 1
+      - path: joint10/joint29/joint3/joint1 10
+        weight: 1
+      - path: joint10/joint29/joint3/joint1 10/joint2 20
+        weight: 1
+      - path: joint10/joint29/joint3/joint1 10/joint2 20/joint3 20
+        weight: 1
+      - path: joint10/joint29/joint3/joint1 10/joint4 20
+        weight: 1
+      - path: joint10/joint29/joint3/joint1 10/joint4 20/joint5 19
+        weight: 1
+      - path: joint10/joint29/joint3/joint22
+        weight: 1
+      - path: joint10/joint29/joint3/joint23
+        weight: 1
+      - path: joint10/joint29/joint3/joint24
+        weight: 1
+      - path: joint10/joint29/joint3/joint25
+        weight: 1
+      - path: joint10/joint29/joint3/joint31
+        weight: 1
+      - path: joint10/joint29/joint3/joint40
+        weight: 1
+      - path: joint10/joint29/joint3/joint40/joint2 21
+        weight: 1
+      - path: joint10/joint29/joint3/joint40/joint2 21/joint3 21
+        weight: 1
+      - path: joint10/joint29/joint3/joint40/joint4 21
+        weight: 1
+      - path: joint10/joint29/joint3/joint40/joint4 21/joint5 20
+        weight: 1
+      - path: joint10/joint29/joint3/joint44
+        weight: 1
+      - path: joint10/joint29/joint3/joint44/joint2 22
+        weight: 1
+      - path: joint10/joint29/joint3/joint44/joint2 22/joint3 22
+        weight: 1
+      - path: joint10/joint29/joint3/joint44/joint4 22
+        weight: 1
+      - path: joint10/joint29/joint3/joint44/joint4 22/joint5 21
+        weight: 1
+      - path: joint10/joint32
+        weight: 1
+      - path: joint10/joint32/joint1 4
+        weight: 1
+      - path: joint10/joint32/joint1 4/joint2 8
+        weight: 1
+      - path: joint10/joint32/joint1 4/joint2 8/joint3 8
+        weight: 1
+      - path: joint10/joint32/joint1 4/joint4 8
+        weight: 1
+      - path: joint10/joint32/joint1 4/joint4 8/joint5 7
+        weight: 1
+      - path: joint10/joint32/joint30
+        weight: 1
+      - path: joint10/joint32/joint30/joint9
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint1 13
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint1 13/joint2 26
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint1 13/joint2 26/joint3 26
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint1 13/joint4 26
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint1 13/joint4 26/joint5 25
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint12
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint13
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint14
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint15
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint42
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint42/joint2 27
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint42/joint2 27/joint3 27
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint42/joint4 27
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint42/joint4 27/joint5 26
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint43
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint43/joint2 28
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint43/joint2 28/joint3 28
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint43/joint4 28
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint43/joint4 28/joint5 27
+        weight: 1
+      - path: joint10/joint32/joint41
+        weight: 1
+      - path: joint10/joint32/joint41/joint2 9
+        weight: 1
+      - path: joint10/joint32/joint41/joint2 9/joint3 9
+        weight: 1
+      - path: joint10/joint32/joint41/joint4 9
+        weight: 1
+      - path: joint10/joint32/joint41/joint4 9/joint5 8
+        weight: 1
+      - path: joint10/joint32/joint46
+        weight: 1
+      - path: joint10/joint32/joint46/joint2 10
+        weight: 1
+      - path: joint10/joint32/joint46/joint2 10/joint3 10
+        weight: 1
+      - path: joint10/joint32/joint46/joint4 10
+        weight: 1
+      - path: joint10/joint32/joint46/joint4 10/joint5 9
+        weight: 1
+      - path: joint10/joint45
+        weight: 1
+      - path: joint10/joint45/joint2 6
+        weight: 1
+      - path: joint10/joint45/joint2 6/joint3 6
+        weight: 1
+      - path: joint10/joint45/joint4 5
+        weight: 1
+      - path: joint10/joint45/joint4 5/joint5 5
+        weight: 1
+      - path: joint21
+        weight: 1
+      - path: joint21/joint6
+        weight: 1
+      - path: joint21/joint6/joint1 9
+        weight: 1
+      - path: joint21/joint6/joint1 9/joint2 15
+        weight: 1
+      - path: joint21/joint6/joint1 9/joint2 15/joint3 15
+        weight: 1
+      - path: joint21/joint6/joint1 9/joint4 15
+        weight: 1
+      - path: joint21/joint6/joint1 9/joint4 15/joint5 14
+        weight: 1
+      - path: joint21/joint6/joint16
+        weight: 1
+      - path: joint21/joint6/joint17
+        weight: 1
+      - path: joint21/joint6/joint18
+        weight: 1
+      - path: joint21/joint6/joint19
+        weight: 1
+      - path: joint21/joint6/joint19/joint7
+        weight: 1
+      - path: joint21/joint6/joint19/joint7/transform3
+        weight: 1
+      - path: joint21/joint6/joint19/joint7/transform3/joint1 15
+        weight: 1
+      - path: joint21/joint6/joint19/joint7/transform3/joint1 15/joint2 30
+        weight: 1
+      - path: joint21/joint6/joint19/joint7/transform3/joint1 15/joint2 30/joint3
+          30
+        weight: 1
+      - path: joint21/joint6/joint19/joint7/transform3/joint1 15/joint4 30
+        weight: 1
+      - path: joint21/joint6/joint19/joint7/transform3/joint1 15/joint4 30/joint5
+          29
+        weight: 1
+      - path: joint21/joint6/joint19/joint7/transform4
+        weight: 1
+      - path: joint21/joint6/joint19/joint7/transform4/joint1 16
+        weight: 1
+      - path: joint21/joint6/joint19/joint7/transform4/joint1 16/joint2 31
+        weight: 1
+      - path: joint21/joint6/joint19/joint7/transform4/joint1 16/joint2 31/joint3
+          31
+        weight: 1
+      - path: joint21/joint6/joint19/joint7/transform4/joint1 16/joint4 31
+        weight: 1
+      - path: joint21/joint6/joint19/joint7/transform4/joint1 16/joint4 31/joint5
+          30
+        weight: 1
+      - path: joint21/joint6/joint20
+        weight: 1
+      - path: joint21/joint6/joint20/joint8
+        weight: 1
+      - path: joint21/joint6/joint20/joint8/Broche31:joint1
+        weight: 1
+      - path: joint21/joint6/joint20/joint8/Broche31:joint1/Broche31:joint2
+        weight: 1
+      - path: joint21/joint6/joint20/joint8/Broche31:joint1/Broche31:joint2/Broche31:joint3
+        weight: 1
+      - path: joint21/joint6/joint20/joint8/Broche31:joint1/Broche31:joint4
+        weight: 1
+      - path: joint21/joint6/joint20/joint8/Broche31:joint1/Broche31:joint4/Broche31:joint5
+        weight: 1
+      - path: joint21/joint6/joint20/joint8/joint1 14
+        weight: 1
+      - path: joint21/joint6/joint20/joint8/joint1 14/joint2 29
+        weight: 1
+      - path: joint21/joint6/joint20/joint8/joint1 14/joint2 29/joint3 29
+        weight: 1
+      - path: joint21/joint6/joint20/joint8/joint1 14/joint4 29
+        weight: 1
+      - path: joint21/joint6/joint20/joint8/joint1 14/joint4 29/joint5 28
+        weight: 1
+      - path: joint21/joint6/joint33
+        weight: 1
+      - path: joint21/joint6/joint33/joint2 16
+        weight: 1
+      - path: joint21/joint6/joint33/joint2 16/joint3 16
+        weight: 1
+      - path: joint21/joint6/joint33/joint4 16
+        weight: 1
+      - path: joint21/joint6/joint33/joint4 16/joint5 15
+        weight: 1
+      - path: joint21/joint6/joint34
+        weight: 1
+      - path: joint21/joint6/joint34/joint2 17
+        weight: 1
+      - path: joint21/joint6/joint34/joint2 17/joint3 17
+        weight: 1
+      - path: joint21/joint6/joint34/joint4 17
+        weight: 1
+      - path: joint21/joint6/joint34/joint4 17/joint5 16
+        weight: 1
+      - path: joint21/joint6/joint35
+        weight: 1
+      - path: joint21/joint6/joint35/joint2 18
+        weight: 1
+      - path: joint21/joint6/joint35/joint2 18/joint3 18
+        weight: 1
+      - path: joint21/joint6/joint35/joint4 18
+        weight: 1
+      - path: joint21/joint6/joint35/joint4 18/joint5 17
+        weight: 1
+      - path: joint21/joint6/joint36
+        weight: 1
+      - path: joint21/joint6/joint36/joint2 19
+        weight: 1
+      - path: joint21/joint6/joint36/joint2 19/joint3 19
+        weight: 1
+      - path: joint21/joint6/joint36/joint4 19
+        weight: 1
+      - path: joint21/joint6/joint36/joint4 19/joint5 18
+        weight: 1
+      - path: joint21/joint6/transform1
+        weight: 1
+      - path: joint21/joint6/transform1/joint1 11
+        weight: 1
+      - path: joint21/joint6/transform1/joint1 11/joint2 23
+        weight: 1
+      - path: joint21/joint6/transform1/joint1 11/joint2 23/joint3 23
+        weight: 1
+      - path: joint21/joint6/transform1/joint1 11/joint4 23
+        weight: 1
+      - path: joint21/joint6/transform1/joint1 11/joint4 23/joint5 22
+        weight: 1
+      - path: joint21/joint6/transform2
+        weight: 1
+      - path: joint21/joint6/transform2/joint1 12
+        weight: 1
+      - path: joint21/joint6/transform2/joint1 12/joint2 24
+        weight: 1
+      - path: joint21/joint6/transform2/joint1 12/joint2 24/joint3 24
+        weight: 1
+      - path: joint21/joint6/transform2/joint1 12/joint4 24
+        weight: 1
+      - path: joint21/joint6/transform2/joint1 12/joint4 24/joint5 23
+        weight: 1
+      - path: joint28
+        weight: 1
+      - path: PlanoSombra:pPlane1
+        weight: 1
+      - path: pointLight1
+        weight: 1
+      - path: pointLight2
+        weight: 1
+      - path: pPlane1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Ending
+      takeName: Take 001
+      firstFrame: 277
+      lastFrame: 338
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Broche01
+        weight: 1
+      - path: Broche01/pPlane1 1
+        weight: 1
+      - path: Broche02
+        weight: 1
+      - path: Broche02/pPlane1 12
+        weight: 1
+      - path: Broche03
+        weight: 1
+      - path: Broche03/pPlane1 16
+        weight: 1
+      - path: Broche04
+        weight: 1
+      - path: Broche04/pPlane1 17
+        weight: 1
+      - path: Broche05
+        weight: 1
+      - path: Broche05/pPlane1 18
+        weight: 1
+      - path: Broche06
+        weight: 1
+      - path: Broche06/pPlane1 19
+        weight: 1
+      - path: Broche07
+        weight: 1
+      - path: Broche07/pPlane1 20
+        weight: 1
+      - path: Broche08
+        weight: 1
+      - path: Broche08/pPlane1 21
+        weight: 1
+      - path: Broche09
+        weight: 1
+      - path: Broche09/pPlane1 22
+        weight: 1
+      - path: Broche010
+        weight: 1
+      - path: Broche010/pPlane1 2
+        weight: 1
+      - path: Broche011
+        weight: 1
+      - path: Broche011/pPlane1 3
+        weight: 1
+      - path: Broche012
+        weight: 1
+      - path: Broche012/pPlane1 4
+        weight: 1
+      - path: Broche013
+        weight: 1
+      - path: Broche013/pPlane1 5
+        weight: 1
+      - path: Broche014
+        weight: 1
+      - path: Broche014/pPlane1 6
+        weight: 1
+      - path: Broche015
+        weight: 1
+      - path: Broche015/pPlane1 7
+        weight: 1
+      - path: Broche016
+        weight: 1
+      - path: Broche016/pPlane1 8
+        weight: 1
+      - path: Broche017
+        weight: 1
+      - path: Broche017/pPlane1 9
+        weight: 1
+      - path: Broche018
+        weight: 1
+      - path: Broche018/pPlane1 10
+        weight: 1
+      - path: Broche019
+        weight: 1
+      - path: Broche019/pPlane1 11
+        weight: 1
+      - path: Broche020
+        weight: 1
+      - path: Broche021
+        weight: 1
+      - path: Broche022
+        weight: 1
+      - path: Broche022/pPlane1 13
+        weight: 1
+      - path: Broche023
+        weight: 1
+      - path: Broche023/pPlane1 14
+        weight: 1
+      - path: Broche024
+        weight: 1
+      - path: Broche024/pPlane1 15
+        weight: 1
+      - path: Cocina_Geo
+        weight: 1
+      - path: Cocina_Geo/Baul
+        weight: 1
+      - path: Cocina_Geo/Ikitoi_Auto_Anim_Op02_v10:Parabrisas1
+        weight: 1
+      - path: Cocina_Geo/Ikitoi_Auto_Anim_Op02_v10:pCube12
+        weight: 1
+      - path: Cocina_Geo/object_44
+        weight: 1
+      - path: Cocina_Geo/object_45
+        weight: 1
+      - path: Cocina_Geo/object_46
+        weight: 1
+      - path: Cocina_Geo/pCube12
+        weight: 1
+      - path: Cocina_Geo/pCube13
+        weight: 1
+      - path: Cocina_Geo/pCube15
+        weight: 1
+      - path: Cocina_Geo/pCube16
+        weight: 1
+      - path: Cocina_Geo/pCube17
+        weight: 1
+      - path: Cocina_Geo/pCylinder1
+        weight: 1
+      - path: Cocina_Geo/pCylinder2
+        weight: 1
+      - path: Cocina_Geo/pCylinder3
+        weight: 1
+      - path: Cocina_Geo/pCylinder4
+        weight: 1
+      - path: Cocina_Geo/pCylinder5
+        weight: 1
+      - path: Cocina_Geo/pCylinder6
+        weight: 1
+      - path: Cocina_Geo/pCylinder7
+        weight: 1
+      - path: Cocina_Geo/pPipe1
+        weight: 1
+      - path: Cocina_Geo/pPipe2
+        weight: 1
+      - path: Cocina_Geo/pPipe3
+        weight: 1
+      - path: Cocina_Geo/pPipe4
+        weight: 1
+      - path: Cocina_Geo/pPlane3
+        weight: 1
+      - path: Cocina_Geo/pPlane4
+        weight: 1
+      - path: Cocina_Geo/pPlane5
+        weight: 1
+      - path: Cocina_Geo/VentanaLateral3
+        weight: 1
+      - path: Cocina_Geo/VentanaLateral4
+        weight: 1
+      - path: group1
+        weight: 1
+      - path: group1/Broche01 1
+        weight: 1
+      - path: group1/Broche01 1/pPlane1 23
+        weight: 1
+      - path: group1/Broche02 1
+        weight: 1
+      - path: group1/Broche02 1/pPlane1 24
+        weight: 1
+      - path: group1/Broche03 1
+        weight: 1
+      - path: group1/Broche03 1/pPlane1 25
+        weight: 1
+      - path: group1/Broche04 1
+        weight: 1
+      - path: group1/Broche04 1/pPlane1 26
+        weight: 1
+      - path: group1/Broche05 1
+        weight: 1
+      - path: group1/Broche05 1/pPlane1 27
+        weight: 1
+      - path: group1/Broche06 1
+        weight: 1
+      - path: group1/Broche06 1/pPlane1 28
+        weight: 1
+      - path: group1/Broche07 1
+        weight: 1
+      - path: group1/Broche07 1/pPlane1 29
+        weight: 1
+      - path: group1/Broche31:Broche01
+        weight: 1
+      - path: group1/Broche31:Broche01/Broche31:pPlane1
+        weight: 1
+      - path: group2
+        weight: 1
+      - path: joint1
+        weight: 1
+      - path: joint1/joint1 1
+        weight: 1
+      - path: joint1/joint1 1/joint2 1
+        weight: 1
+      - path: joint1/joint1 1/joint2 1/joint3 1
+        weight: 1
+      - path: joint1/joint1 1/joint4
+        weight: 1
+      - path: joint1/joint1 1/joint4/joint5
+        weight: 1
+      - path: joint1/joint37
+        weight: 1
+      - path: joint1/joint37/joint2 2
+        weight: 1
+      - path: joint1/joint37/joint2 2/joint3 2
+        weight: 1
+      - path: joint1/joint37/joint4 1
+        weight: 1
+      - path: joint1/joint37/joint4 1/joint5 1
+        weight: 1
+      - path: joint1/joint38
+        weight: 1
+      - path: joint1/joint38/joint2 3
+        weight: 1
+      - path: joint1/joint38/joint2 3/joint3 3
+        weight: 1
+      - path: joint1/joint38/joint4 2
+        weight: 1
+      - path: joint1/joint38/joint4 2/joint5 2
+        weight: 1
+      - path: joint1/joint39
+        weight: 1
+      - path: joint1/joint39/joint2 4
+        weight: 1
+      - path: joint1/joint39/joint2 4/joint3 4
+        weight: 1
+      - path: joint1/joint39/joint4 3
+        weight: 1
+      - path: joint1/joint39/joint4 3/joint5 3
+        weight: 1
+      - path: joint2
+        weight: 1
+      - path: joint2/transform5
+        weight: 1
+      - path: joint2/transform5/joint1 5
+        weight: 1
+      - path: joint2/transform5/joint1 5/joint2 11
+        weight: 1
+      - path: joint2/transform5/joint1 5/joint2 11/joint3 11
+        weight: 1
+      - path: joint2/transform5/joint1 5/joint4 11
+        weight: 1
+      - path: joint2/transform5/joint1 5/joint4 11/joint5 10
+        weight: 1
+      - path: joint2/transform6
+        weight: 1
+      - path: joint2/transform6/joint1 6
+        weight: 1
+      - path: joint2/transform6/joint1 6/joint2 12
+        weight: 1
+      - path: joint2/transform6/joint1 6/joint2 12/joint3 12
+        weight: 1
+      - path: joint2/transform6/joint1 6/joint4 12
+        weight: 1
+      - path: joint2/transform6/joint1 6/joint4 12/joint5 11
+        weight: 1
+      - path: joint2/transform7
+        weight: 1
+      - path: joint2/transform7/joint1 7
+        weight: 1
+      - path: joint2/transform7/joint1 7/joint2 13
+        weight: 1
+      - path: joint2/transform7/joint1 7/joint2 13/joint3 13
+        weight: 1
+      - path: joint2/transform7/joint1 7/joint4 13
+        weight: 1
+      - path: joint2/transform7/joint1 7/joint4 13/joint5 12
+        weight: 1
+      - path: joint2/transform8
+        weight: 1
+      - path: joint2/transform8/joint1 8
+        weight: 1
+      - path: joint2/transform8/joint1 8/joint2 14
+        weight: 1
+      - path: joint2/transform8/joint1 8/joint2 14/joint3 14
+        weight: 1
+      - path: joint2/transform8/joint1 8/joint4 14
+        weight: 1
+      - path: joint2/transform8/joint1 8/joint4 14/joint5 13
+        weight: 1
+      - path: joint10
+        weight: 1
+      - path: joint10/joint1 2
+        weight: 1
+      - path: joint10/joint1 2/joint2 5
+        weight: 1
+      - path: joint10/joint1 2/joint2 5/joint3 5
+        weight: 1
+      - path: joint10/joint1 2/joint4 4
+        weight: 1
+      - path: joint10/joint1 2/joint4 4/joint5 4
+        weight: 1
+      - path: joint10/joint11
+        weight: 1
+      - path: joint10/joint11/joint48
+        weight: 1
+      - path: joint10/joint11/joint48/joint4 6
+        weight: 1
+      - path: joint10/joint11/joint48/joint4 6/joint47
+        weight: 1
+      - path: joint10/joint11/joint48/joint4 6/joint47/joint2 25
+        weight: 1
+      - path: joint10/joint11/joint48/joint4 6/joint47/joint2 25/joint3 25
+        weight: 1
+      - path: joint10/joint11/joint48/joint4 6/joint47/joint4 25
+        weight: 1
+      - path: joint10/joint11/joint48/joint4 6/joint47/joint4 25/joint5 24
+        weight: 1
+      - path: joint10/joint29
+        weight: 1
+      - path: joint10/joint29/joint1 3
+        weight: 1
+      - path: joint10/joint29/joint1 3/joint2 7
+        weight: 1
+      - path: joint10/joint29/joint1 3/joint2 7/joint3 7
+        weight: 1
+      - path: joint10/joint29/joint1 3/joint4 7
+        weight: 1
+      - path: joint10/joint29/joint1 3/joint4 7/joint5 6
+        weight: 1
+      - path: joint10/joint29/joint3
+        weight: 1
+      - path: joint10/joint29/joint3/joint1 10
+        weight: 1
+      - path: joint10/joint29/joint3/joint1 10/joint2 20
+        weight: 1
+      - path: joint10/joint29/joint3/joint1 10/joint2 20/joint3 20
+        weight: 1
+      - path: joint10/joint29/joint3/joint1 10/joint4 20
+        weight: 1
+      - path: joint10/joint29/joint3/joint1 10/joint4 20/joint5 19
+        weight: 1
+      - path: joint10/joint29/joint3/joint22
+        weight: 1
+      - path: joint10/joint29/joint3/joint23
+        weight: 1
+      - path: joint10/joint29/joint3/joint24
+        weight: 1
+      - path: joint10/joint29/joint3/joint25
+        weight: 1
+      - path: joint10/joint29/joint3/joint31
+        weight: 1
+      - path: joint10/joint29/joint3/joint40
+        weight: 1
+      - path: joint10/joint29/joint3/joint40/joint2 21
+        weight: 1
+      - path: joint10/joint29/joint3/joint40/joint2 21/joint3 21
+        weight: 1
+      - path: joint10/joint29/joint3/joint40/joint4 21
+        weight: 1
+      - path: joint10/joint29/joint3/joint40/joint4 21/joint5 20
+        weight: 1
+      - path: joint10/joint29/joint3/joint44
+        weight: 1
+      - path: joint10/joint29/joint3/joint44/joint2 22
+        weight: 1
+      - path: joint10/joint29/joint3/joint44/joint2 22/joint3 22
+        weight: 1
+      - path: joint10/joint29/joint3/joint44/joint4 22
+        weight: 1
+      - path: joint10/joint29/joint3/joint44/joint4 22/joint5 21
+        weight: 1
+      - path: joint10/joint32
+        weight: 1
+      - path: joint10/joint32/joint1 4
+        weight: 1
+      - path: joint10/joint32/joint1 4/joint2 8
+        weight: 1
+      - path: joint10/joint32/joint1 4/joint2 8/joint3 8
+        weight: 1
+      - path: joint10/joint32/joint1 4/joint4 8
+        weight: 1
+      - path: joint10/joint32/joint1 4/joint4 8/joint5 7
+        weight: 1
+      - path: joint10/joint32/joint30
+        weight: 1
+      - path: joint10/joint32/joint30/joint9
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint1 13
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint1 13/joint2 26
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint1 13/joint2 26/joint3 26
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint1 13/joint4 26
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint1 13/joint4 26/joint5 25
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint12
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint13
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint14
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint15
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint42
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint42/joint2 27
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint42/joint2 27/joint3 27
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint42/joint4 27
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint42/joint4 27/joint5 26
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint43
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint43/joint2 28
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint43/joint2 28/joint3 28
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint43/joint4 28
+        weight: 1
+      - path: joint10/joint32/joint30/joint9/joint43/joint4 28/joint5 27
+        weight: 1
+      - path: joint10/joint32/joint41
+        weight: 1
+      - path: joint10/joint32/joint41/joint2 9
+        weight: 1
+      - path: joint10/joint32/joint41/joint2 9/joint3 9
+        weight: 1
+      - path: joint10/joint32/joint41/joint4 9
+        weight: 1
+      - path: joint10/joint32/joint41/joint4 9/joint5 8
+        weight: 1
+      - path: joint10/joint32/joint46
+        weight: 1
+      - path: joint10/joint32/joint46/joint2 10
+        weight: 1
+      - path: joint10/joint32/joint46/joint2 10/joint3 10
+        weight: 1
+      - path: joint10/joint32/joint46/joint4 10
+        weight: 1
+      - path: joint10/joint32/joint46/joint4 10/joint5 9
+        weight: 1
+      - path: joint10/joint45
+        weight: 1
+      - path: joint10/joint45/joint2 6
+        weight: 1
+      - path: joint10/joint45/joint2 6/joint3 6
+        weight: 1
+      - path: joint10/joint45/joint4 5
+        weight: 1
+      - path: joint10/joint45/joint4 5/joint5 5
+        weight: 1
+      - path: joint21
+        weight: 1
+      - path: joint21/joint6
+        weight: 1
+      - path: joint21/joint6/joint1 9
+        weight: 1
+      - path: joint21/joint6/joint1 9/joint2 15
+        weight: 1
+      - path: joint21/joint6/joint1 9/joint2 15/joint3 15
+        weight: 1
+      - path: joint21/joint6/joint1 9/joint4 15
+        weight: 1
+      - path: joint21/joint6/joint1 9/joint4 15/joint5 14
+        weight: 1
+      - path: joint21/joint6/joint16
+        weight: 1
+      - path: joint21/joint6/joint17
+        weight: 1
+      - path: joint21/joint6/joint18
+        weight: 1
+      - path: joint21/joint6/joint19
+        weight: 1
+      - path: joint21/joint6/joint19/joint7
+        weight: 1
+      - path: joint21/joint6/joint19/joint7/transform3
+        weight: 1
+      - path: joint21/joint6/joint19/joint7/transform3/joint1 15
+        weight: 1
+      - path: joint21/joint6/joint19/joint7/transform3/joint1 15/joint2 30
+        weight: 1
+      - path: joint21/joint6/joint19/joint7/transform3/joint1 15/joint2 30/joint3
+          30
+        weight: 1
+      - path: joint21/joint6/joint19/joint7/transform3/joint1 15/joint4 30
+        weight: 1
+      - path: joint21/joint6/joint19/joint7/transform3/joint1 15/joint4 30/joint5
+          29
+        weight: 1
+      - path: joint21/joint6/joint19/joint7/transform4
+        weight: 1
+      - path: joint21/joint6/joint19/joint7/transform4/joint1 16
+        weight: 1
+      - path: joint21/joint6/joint19/joint7/transform4/joint1 16/joint2 31
+        weight: 1
+      - path: joint21/joint6/joint19/joint7/transform4/joint1 16/joint2 31/joint3
+          31
+        weight: 1
+      - path: joint21/joint6/joint19/joint7/transform4/joint1 16/joint4 31
+        weight: 1
+      - path: joint21/joint6/joint19/joint7/transform4/joint1 16/joint4 31/joint5
+          30
+        weight: 1
+      - path: joint21/joint6/joint20
+        weight: 1
+      - path: joint21/joint6/joint20/joint8
+        weight: 1
+      - path: joint21/joint6/joint20/joint8/Broche31:joint1
+        weight: 1
+      - path: joint21/joint6/joint20/joint8/Broche31:joint1/Broche31:joint2
+        weight: 1
+      - path: joint21/joint6/joint20/joint8/Broche31:joint1/Broche31:joint2/Broche31:joint3
+        weight: 1
+      - path: joint21/joint6/joint20/joint8/Broche31:joint1/Broche31:joint4
+        weight: 1
+      - path: joint21/joint6/joint20/joint8/Broche31:joint1/Broche31:joint4/Broche31:joint5
+        weight: 1
+      - path: joint21/joint6/joint20/joint8/joint1 14
+        weight: 1
+      - path: joint21/joint6/joint20/joint8/joint1 14/joint2 29
+        weight: 1
+      - path: joint21/joint6/joint20/joint8/joint1 14/joint2 29/joint3 29
+        weight: 1
+      - path: joint21/joint6/joint20/joint8/joint1 14/joint4 29
+        weight: 1
+      - path: joint21/joint6/joint20/joint8/joint1 14/joint4 29/joint5 28
+        weight: 1
+      - path: joint21/joint6/joint33
+        weight: 1
+      - path: joint21/joint6/joint33/joint2 16
+        weight: 1
+      - path: joint21/joint6/joint33/joint2 16/joint3 16
+        weight: 1
+      - path: joint21/joint6/joint33/joint4 16
+        weight: 1
+      - path: joint21/joint6/joint33/joint4 16/joint5 15
+        weight: 1
+      - path: joint21/joint6/joint34
+        weight: 1
+      - path: joint21/joint6/joint34/joint2 17
+        weight: 1
+      - path: joint21/joint6/joint34/joint2 17/joint3 17
+        weight: 1
+      - path: joint21/joint6/joint34/joint4 17
+        weight: 1
+      - path: joint21/joint6/joint34/joint4 17/joint5 16
+        weight: 1
+      - path: joint21/joint6/joint35
+        weight: 1
+      - path: joint21/joint6/joint35/joint2 18
+        weight: 1
+      - path: joint21/joint6/joint35/joint2 18/joint3 18
+        weight: 1
+      - path: joint21/joint6/joint35/joint4 18
+        weight: 1
+      - path: joint21/joint6/joint35/joint4 18/joint5 17
+        weight: 1
+      - path: joint21/joint6/joint36
+        weight: 1
+      - path: joint21/joint6/joint36/joint2 19
+        weight: 1
+      - path: joint21/joint6/joint36/joint2 19/joint3 19
+        weight: 1
+      - path: joint21/joint6/joint36/joint4 19
+        weight: 1
+      - path: joint21/joint6/joint36/joint4 19/joint5 18
+        weight: 1
+      - path: joint21/joint6/transform1
+        weight: 1
+      - path: joint21/joint6/transform1/joint1 11
+        weight: 1
+      - path: joint21/joint6/transform1/joint1 11/joint2 23
+        weight: 1
+      - path: joint21/joint6/transform1/joint1 11/joint2 23/joint3 23
+        weight: 1
+      - path: joint21/joint6/transform1/joint1 11/joint4 23
+        weight: 1
+      - path: joint21/joint6/transform1/joint1 11/joint4 23/joint5 22
+        weight: 1
+      - path: joint21/joint6/transform2
+        weight: 1
+      - path: joint21/joint6/transform2/joint1 12
+        weight: 1
+      - path: joint21/joint6/transform2/joint1 12/joint2 24
+        weight: 1
+      - path: joint21/joint6/transform2/joint1 12/joint2 24/joint3 24
+        weight: 1
+      - path: joint21/joint6/transform2/joint1 12/joint4 24
+        weight: 1
+      - path: joint21/joint6/transform2/joint1 12/joint4 24/joint5 23
+        weight: 1
+      - path: joint28
+        weight: 1
+      - path: PlanoSombra:pPlane1
+        weight: 1
+      - path: pointLight1
+        weight: 1
+      - path: pointLight2
+        weight: 1
+      - path: pPlane1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 2
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

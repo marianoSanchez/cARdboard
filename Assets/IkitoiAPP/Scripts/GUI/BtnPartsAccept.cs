@@ -1,0 +1,52 @@
+﻿using UnityEngine;
+using System.Collections;
+
+[RequireComponent(typeof(UIButton))]
+public class BtnPartsAccept : MonoBehaviour
+{
+	#region Variables (private)
+    
+	#endregion
+
+	#region Propiedades (public)
+    
+	#endregion
+
+	#region Funciones de evento de Unity
+
+    /// <summary>
+    /// Llamado siempre al inicializar el componente.
+    /// </summary>
+    void Awake()
+    {
+
+    }
+
+	/// <summary>
+    /// Llamado al inicializar el componente, si MonoBehaviour esta habilitado.
+	/// </summary>
+	void Start ()	
+	{
+	
+	}
+
+	/// <summary>
+    /// Update es llamado una vez por frame, si MonoBehaviour esta habilitado.
+	/// </summary>
+	void Update () 
+	{
+	
+	}
+
+	void OnClick()
+	{
+        IkitoiAPP.Instance.GoToTutorial(IkitoiMenuGUI.Instance.transitionDuration);
+	}
+
+	#endregion
+
+	#region Metodos
+
+	#endregion
+}
+
